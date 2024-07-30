@@ -1,0 +1,151 @@
+Tag,Count
+"('surface', 'asphalt')",852
+"('highway', 'footway')",763
+"('footway', 'sidewalk')",528
+"('highway', 'residential')",516
+"('oneway', 'yes')",510
+"('lanes', '2')",356
+"('highway', 'service')",296
+"('highway', 'primary')",239
+"('footway', 'crossing')",213
+"('name', 'Phố Minh Khai')",167
+"('motorcycle', 'yes')",147
+"('oneway:motorcycle', 'no')",118
+"('oneway:moped', 'no')",118
+"('oneway:mofa', 'no')",118
+"('oneway:bicycle', 'no')",118
+"('surface', 'concrete')",108
+"('highway', 'secondary')",103
+"('moped', 'yes')",102
+"('lanes', '1')",80
+"('name', 'Phố Kim Ngưu')",77
+"('crossing', 'marked')",69
+"('highway', 'primary_link')",67
+"('motor_vehicle', 'no')",67
+"('motorcar', 'no')",65
+"('crossing', 'unmarked')",53
+"('service', 'alley')",53
+"('old_name', 'Phố Vĩnh Tuy')",51
+"('name', 'Phố Nguyễn Văn Viên')",51
+"('layer', '1')",46
+"('crossing', 'traffic_signals')",45
+"('cycleway:right', 'shared_lane')",42
+"('bridge', 'yes')",41
+"('lanes', '4')",32
+"('name', 'Đường Số 4')",27
+"('crossing', 'zebra')",25
+"('motorcar', 'destination')",24
+"('lit', 'yes')",23
+"('name', 'Đường Số 1 Times City')",21
+"('mofa', 'yes')",20
+"('bicycle', 'yes')",20
+"('name:zh', '陈渴真路')",20
+"('name', 'Đường Trần Khát Chân')",20
+"('name:en', 'Tran Khat Chan Road')",20
+"('highway', 'tertiary')",18
+"('name', 'Ngõ E8 Kim Ngưu')",18
+"('highway', 'secondary_link')",18
+"('highway', 'steps')",18
+"('highway', 'path')",17
+"('name', 'Ngõ 461 Trần Khát Chân')",17
+"('name', 'Ngõ 84 Kim Ngưu')",16
+"('addr:district', 'Hai Bà Trưng')",14
+"('residential', 'apartments')",14
+"('name', 'Ngõ 536 Phố Minh Khai')",14
+"('addr:city', 'Hà Nội')",14
+"('addr:subdistrict', 'Vĩnh Tuy')",14
+"('addr:street', 'Phố Minh Khai')",14
+"('name', 'Ngõ 88 Kim Ngưu')",14
+"('crossing:markings', 'yes')",14
+"('landuse', 'residential')",14
+"('addr:province', 'Hà Nội')",14
+"('maxheight', '2.3')",13
+"('maxweight', '8')",13
+"('highway', 'trunk_link')",13
+"('foot', 'no')",13
+"('junction', 'roundabout')",12
+"('oneway', 'no')",12
+"('horse', 'no')",11
+"('name', 'Ngõ 279 Trần Khát Chân')",11
+"('crossing', 'uncontrolled')",11
+"('crossing:markings', 'zebra')",11
+"('name', 'Đường Tam Trinh')",10
+"('name', 'Ngõ 34 Vĩnh Tuy')",10
+"('fixme', 'maxweight')",10
+"('traffic_calming', 'island')",10
+"('foot', 'yes')",10
+"('name', 'Cầu Kim Ngưu S3')",9
+"('name', 'Phố Lạc Nghiệp')",9
+"('name', 'Phố Quỳnh Lôi')",9
+"('name', 'Ngõ 54 Kim Ngưu')",9
+"('name', 'Ngõ 260 Kim Ngưu')",9
+"('addr:housenumber', '505')",9
+"('name', 'Hòa Bình Green City')",9
+"('name', 'Ngõ 641 Phố Kim Ngưu')",8
+"('name', 'Ngõ 624 Phố Minh Khai')",8
+"('name', 'Phố Võ Thị Sáu')",8
+"('name', 'Ngách 624/12 Phố Minh Khai')",8
+"('cycleway:both', 'shared_lane')",7
+"('maxspeed:type', 'VN:urban')",7
+"('name', 'Ngõ E4 Kim Ngưu')",7
+"('name', 'Phố Mạc Thị Bưởi')",7
+"('name', 'Phố Chùa Quỳnh')",7
+"('alt_name', 'Tân Lập cũ')",7
+"('maxweight', '30')",7
+"('maxspeed', '50')",7
+"('destination', 'Cầu Vĩnh Tuy;Câu C. Đường')",7
+"('destination:street', 'Phố Minh Khai')",7
+"('name', 'Ngõ 331 Trần Khát Chân')",6
+"('name', 'Ngõ 4 Quỳnh Lôi')",6
+"('bicycle', 'no')",6
+"('access', 'no')",6
+"('name', 'Phố Dương Văn Bé')",5
+"('maxheight', 'default')",5
+"('wikimedia_commons', 'Category:Times City')",5
+"('lanes:forward', '2')",5
+"('wikidata', 'Q10779495')",5
+"('name', 'Cầu Kim Ngưu S2')",5
+"('name', 'Ngõ 254 Kim Ngưu')",5
+"('maxheight', '2')",5
+"('lanes:backward', '2')",5
+"('cycleway', 'shared_lane')",5
+"('addr:housenumber', '458')",5
+"('name', 'Ngõ 622 Phố Minh Khai')",5
+"('name', 'Phố Vĩnh Tuy')",5
+"('turn:lanes:backward', 'left;through|through;right')",5
+"('operator', 'Vingroup')",5
+"('wikipedia', 'vi:Vinhomes Times City')",5
+"('name', 'Ngõ 505 Trần Khát Chân')",5
+"('name', 'Đường Số 3 Times City')",5
+"('name', 'Phố Quỳnh Mai')",5
+"('name', 'Ngõ 647 Phố Kim Ngưu')",5
+"('building', 'yes')",5
+"('name', 'Vinhomes Times City')",5
+"('addr:postcode', '100000')",5
+"('name', 'Ngõ 174 Kim Ngưu')",4
+"('name', 'Ngõ 100 Kim Ngưu')",4
+"('name', 'Ngõ 250 Kim Ngưu')",4
+"('name', 'Cầu Kim Ngưu S4')",4
+"('note', 'Direction of traffic not clear. Do not enter sign and traffic lights imply conflicting kinds of traffic flow in this area.')",4
+"('name', 'Ngõ 44 Phố Võ Thị Sáu')",4
+"('name', 'Phố Thanh Nhàn')",4
+"('name', 'Ngõ 9 Quỳnh Lôi')",4
+"('warning_traffic_jam:content', '123')",4
+"('name', 'Phố Yên Lạc')",3
+"('name', 'Ngõ 100 Nguyễn Văn Viên')",3
+"('surface', 'metal')",3
+"('name', 'Ngõ 102 Kim Ngưu')",3
+"('hgv', 'no')",3
+"('name', 'Ngõ 74 Kim Ngưu')",3
+"('handrail', 'yes')",3
+"('surface', 'paving_stones')",3
+"('name', 'Ngõ 583')",3
+"('name', 'Ngõ 281 Trần Khát Chân')",3
+"('name', 'Ngõ 364 Minh Khai')",3
+"('name', 'Cầu vượt Trần Khát Chân')",3
+"('fixme', 'New pedestrian bridge, position might be wrong')",3
+"('incline', 'down')",3
+"('maxweight', '10')",2
+"('lanes', '3')",2
+"('name', 'Cầu Lạc Trung')",1
+"('name', 'Đường Số 2 Times City')",1

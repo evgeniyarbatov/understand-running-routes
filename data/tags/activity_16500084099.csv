@@ -1,0 +1,244 @@
+Tag,Count
+"('highway', 'footway')",1542
+"('surface', 'asphalt')",1086
+"('footway', 'sidewalk')",907
+"('highway', 'residential')",589
+"('footway', 'crossing')",569
+"('oneway', 'yes')",501
+"('lanes', '2')",484
+"('highway', 'service')",358
+"('highway', 'tertiary')",264
+"('motorcycle', 'yes')",258
+"('crossing', 'marked')",226
+"('service', 'alley')",224
+"('crossing', 'traffic_signals')",200
+"('surface', 'concrete')",147
+"('motorcar', 'no')",147
+"('surface', 'concrete:plates')",142
+"('lit', 'yes')",142
+"('moped', 'yes')",129
+"('surface', 'paving_stones')",124
+"('oneway:bicycle', 'no')",118
+"('oneway:mofa', 'no')",118
+"('oneway:moped', 'no')",118
+"('oneway:motorcycle', 'no')",118
+"('motor_vehicle', 'no')",112
+"('motor_vehicle:conditional', 'no @ (Fr 19:00-23:59; Sa-Su 00:00-23:59)')",106
+"('highway', 'primary')",102
+"('crossing', 'uncontrolled')",93
+"('crossing:markings', 'yes')",92
+"('highway', 'secondary')",87
+"('vehicle:conditional', 'no @ (Jan 1 00:00-23:59)')",86
+"('name', 'Phố Minh Khai')",79
+"('crossing:markings', 'zebra')",75
+"('name', 'Phố Kim Ngưu')",73
+"('lanes', '1')",73
+"('name', 'Phố Lò Đúc')",68
+"('old_name:fr', 'Boulevard Armand Rousseau')",68
+"('name:en', 'Lo Duc Street')",65
+"('smoothness', 'good')",64
+"('motor_vehicle:conditional', 'no @ (Fr-Su 18:00-23:59)')",48
+"('wikipedia', 'vi:Hàng Đào')",48
+"('wikidata', 'Q10770772')",48
+"('name:en', 'Hang Dao Street')",48
+"('name:zh', '行桃街')",48
+"('name', 'Phố Hàng Đào')",48
+"('name', 'Phố Phan Chu Trinh')",46
+"('name', 'Phố Đinh Tiên Hoàng')",45
+"('name:en', 'Dinh Tien Hoang Street')",45
+"('name:zh', '丁先皇街')",45
+"('highway', 'primary_link')",43
+"('lanes', '3')",43
+"('name:en', 'Gia Ngu Street')",41
+"('name', 'Phố Gia Ngư')",41
+"('motor_vehicle', 'destination')",41
+"('horse', 'no')",41
+"('bicycle', 'no')",41
+"('name:zh', '家鱼街')",41
+"('name:zh', '木桥街')",39
+"('name', 'Phố Nguyễn Khắc Cần')",39
+"('name:en', 'Cau Go Street')",39
+"('crossing', 'zebra')",38
+"('name', 'Phố Hàng Bạc')",28
+"('name', 'Phố Hàng Ngang')",28
+"('name:en', 'Hang Bac Street')",28
+"('name', 'Phố Hàng Bồ')",28
+"('name:zh', '行横街')",28
+"('name:en', 'Hang Ngang Street')",28
+"('service', 'driveway')",26
+"('motorcar', 'destination')",24
+"('turn:lanes:backward', 'through;left;right')",23
+"('turn:lanes:forward', 'through')",23
+"('highway', 'tertiary_link')",22
+"('cycleway:both', 'no')",21
+"('name', 'Đường Số 5 Times City')",21
+"('oneway', 'no')",21
+"('name', 'Phố Cầu Gỗ')",21
+"('name:en', 'Tran Khat Chan Road')",20
+"('name', 'Đường Trần Khát Chân')",20
+"('name:en', 'Le Thai To Street')",20
+"('name:zh', '陈渴真路')",20
+"('name:zh', '黎太祖街')",20
+"('name', 'Phố Lê Thái Tổ')",20
+"('button_operated', 'yes')",19
+"('name', 'Phố Phạm Sư Mạnh')",19
+"('destination:street', 'Phố Minh Khai')",18
+"('layer', '1')",18
+"('destination', 'Cầu Vĩnh Tuy;Câu C. Đường')",18
+"('destination:street', 'Phố Cầu Gỗ')",18
+"('bridge', 'yes')",17
+"('name:zh', '二征夫人街')",17
+"('name:en', 'Hai Ba Trung Street')",17
+"('name', 'Phố Hai Bà Trưng')",17
+"('name', 'Ngõ 583')",16
+"('name', 'Đường Số 3 Times City')",16
+"('lane_markings', 'no')",16
+"('name', 'Đường Số 4')",16
+"('name', 'Ngõ 180 Phố Lò Đúc')",15
+"('name', 'Đường Số 7 Times City')",14
+"('name', 'Ngõ Phan Chu Trinh')",14
+"('name', 'Ngõ 190 Phố Lò Đúc')",13
+"('name', 'Ngõ 172')",13
+"('name', 'Ngõ 487 Kim Ngưu')",13
+"('highway', 'steps')",13
+"('name', 'Ngõ 174 Kim Ngưu')",13
+"('note', 'Nguồn: 70 BXD/KT-QH ngày 30 tháng 3 năm 1995 của Bộ Xây dựng')",12
+"('foot', 'yes')",12
+"('admin_level', '7')",12
+"('boundary', 'administrative')",12
+"('name', 'Ranh giới khu phố cổ Hà Nội')",12
+"('name:en', 'Hanoi Old Quarters boundary')",12
+"('name:en', 'Trang Tien Alley')",12
+"('highway', 'secondary_link')",12
+"('highway', 'path')",12
+"('name', 'Ngõ Tràng Tiền')",12
+"('name:en', 'Hang Gai Street')",11
+"('name', 'Phố Hàng Gai')",11
+"('name:zh', '行荄街')",11
+"('lanes', '4')",10
+"('name', 'Ngõ 88 Kim Ngưu')",10
+"('name', 'Đường Số 1 Times City')",9
+"('name:id', 'Jalan Le Thai To')",9
+"('service', 'parking_aisle')",9
+"('name', 'Ngõ 641 Phố Kim Ngưu')",9
+"('name', 'Ngõ 102 Kim Ngưu')",9
+"('name', 'Ngõ 124 Kim Ngưu')",8
+"('name', 'Ngõ 364 Minh Khai')",7
+"('name', 'Ngõ 343 Phố Kim Ngưu')",7
+"('name', 'Ngõ 203 Kim Ngưu')",7
+"('name', 'Ngõ 102+104')",7
+"('name', 'Ngõ 84 Kim Ngưu')",7
+"('name:en', 'Le Van Huu Street')",6
+"('name', 'Ngõ 168 Phố Lò Đúc')",6
+"('hgv', 'no')",6
+"('name', 'Phố Yên Lạc')",6
+"('name', 'Ngõ 469 Kim Ngưu')",6
+"('name', 'Phố Quỳnh Mai')",6
+"('name', 'Phố Hàn Thuyên')",6
+"('name', 'Đường Tam Trinh')",6
+"('name', 'Ngõ 158 Phố Lò Đúc')",6
+"('name:en', 'Han Thuyen Street')",6
+"('name', 'Phố Lê Văn Hưu')",6
+"('name', 'Phố Hàm Long')",6
+"('name:en', 'Ham Long Street')",6
+"('name:en', 'Tho Lao Street')",5
+"('name', 'Ngõ E4 Kim Ngưu')",5
+"('name', 'Phố Thọ Lão')",5
+"('name', 'Phố Nguyễn Công Trứ')",5
+"('layer', '-1')",5
+"('landuse', 'grass')",5
+"('name', 'Ngõ 100 Kim Ngưu')",5
+"('traffic_calming', 'island')",5
+"('name', 'Phố Đông Mác')",5
+"('name:en', 'Tran Hung Dao Street')",4
+"('name', 'Ngõ 433 Phố Kim Ngưu')",4
+"('old_name:fr', 'Boulevard Gambetta')",4
+"('name', 'Phố Trần Hưng Đạo')",4
+"('crossing', 'unmarked')",4
+"('name', 'Ngõ 647 Phố Kim Ngưu')",4
+"('name:zh', '陈兴道坊')",4
+"('name:zh', '行油街')",4
+"('name', 'Phố Lý Thường Kiệt')",4
+"('source', 'Bing')",4
+"('name:en', 'Hang Dau Street')",4
+"('name', 'Phố Hàng Dầu')",4
+"('name', 'Ngõ 116 Phố Lò Đúc')",4
+"('mofa', 'yes')",4
+"('name:en', 'Ly Thuong Kiet Street')",4
+"('name', 'Phố Nguyễn Cao')",4
+"('access', 'private')",4
+"('landuse', 'commercial')",4
+"('name:id', 'Jalan Trang Tien')",3
+"('name', 'Đường Số 2 Times City')",3
+"('name', 'Phố Tràng Tiền')",3
+"('name:en', 'Trang Tien Street')",3
+"('maxweight', '10')",3
+"('amenity', 'parking')",3
+"('name:zh', '场钱街')",3
+"('addr:district', 'Hai Bà Trưng')",3
+"('kerb', 'raised')",3
+"('name', 'Vinhomes Times City')",3
+"('name', 'Phố Phạm Đình Hổ')",3
+"('name', 'Ngõ 96 Lò Đúc')",3
+"('name', 'Ngõ 150 Phố Lò Đúc')",3
+"('highway', 'pedestrian')",3
+"('addr:subdistrict', 'Vĩnh Tuy')",3
+"('landuse', 'residential')",3
+"('name', 'Cầu vượt Ô Đông Mác')",3
+"('bicycle', 'yes')",3
+"('addr:province', 'Hà Nội')",3
+"('name', 'Ngách 121/3 Kim Ngưu')",3
+"('name', 'Ngõ 121 Kim Ngưu')",3
+"('operator', 'Vingroup')",3
+"('residential', 'apartments')",3
+"('wikidata', 'Q10779495')",3
+"('wikimedia_commons', 'Category:Times City')",3
+"('wikipedia', 'vi:Vinhomes Times City')",3
+"('name', 'Phố Hoà Mã')",3
+"('addr:street', 'Phố Minh Khai')",3
+"('addr:postcode', '100000')",3
+"('addr:city', 'Hà Nội')",3
+"('barrier', 'kerb')",3
+"('area', 'yes')",3
+"('addr:housenumber', '458')",3
+"('name:en', 'Le Lai Street')",2
+"('name', 'Ngõ 74 Kim Ngưu')",2
+"('name', 'Ngõ 54 Kim Ngưu')",2
+"('name', 'Ngõ 132 Phố Lò Đúc')",2
+"('name:en', 'Tran Xuan Soan Street')",2
+"('name', 'Ngõ 19 Lạc Trung')",2
+"('maxheight', '4.75')",2
+"('name:zh', '黎莱街')",2
+"('name', 'Phố Nguyễn Xí')",2
+"('name:vi', 'Phố Lê Lai')",2
+"('name', 'Phố Lê Lai')",2
+"('name:zh', '吴权街')",2
+"('name', 'Phố Trần Xuân Soạn')",2
+"('name', 'Phố Ngô Quyền')",2
+"('name:en', 'Ngo Quyen Street')",2
+"('name', 'Ngõ 19 Nguyễn Công Trứ')",2
+"('name', 'Ngõ 108 Phố Lò Đúc')",2
+"('name', 'Phố Hồ Hoàn Kiếm')",1
+"('name', 'Phố Lạc Trung')",1
+"('name:en', 'Lo Su Street')",1
+"('name', 'Ngõ 325 Kim Ngưu')",1
+"('name', 'Ngõ 156 Kim Ngưu')",1
+"('name', 'Ngách 1 Ngõ 203 Phố Kim Ngưu')",1
+"('wikipedia', 'vi:Phố Hồ Hoàn Kiếm')",1
+"('name', 'Ngõ 203 Phố Kim Ngưu')",1
+"('wikidata', 'Q10771964')",1
+"('name:zh', '炉炷街')",1
+"('name', 'Ngõ 110')",1
+"('note', 'Direction of traffic not clear. Do not enter sign and traffic lights imply conflicting kinds of traffic flow in this area.')",1
+"('maxheight', '2')",1
+"('old_name:fr', 'Voie № 222')",1
+"('name', 'Ngõ 424 Trần Khát Chân')",1
+"('name', 'Cầu Kim Ngưu S2')",1
+"('name', 'Ngõ 1 Đồng Nhân')",1
+"('name', 'Phố Lò Sũ')",1
+"('name', 'Ngõ 34 Kim Ngưu')",1
+"('name', 'Phố Yec Xanh')",1
+"('name:zh', '陈元扞街')",1
+"('name:en', 'Tran Nguyen Han Street')",1
+"('name', 'Phố Trần Nguyên Hãn')",1
+"('name', 'Đường Số 1')",1
