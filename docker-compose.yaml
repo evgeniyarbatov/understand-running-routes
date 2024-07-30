@@ -35,6 +35,7 @@ services:
       - OVERPASS_PLANET_URL=file:///data/hanoi.osm.bz2
       - OVERPASS_RULES_LOAD=10
       - OVERPASS_ALLOW_DUPLICATE_QUERIES=yes
+      - OVERPASS_USE_AREAS=false
     networks:
       - default
     restart: unless-stopped
