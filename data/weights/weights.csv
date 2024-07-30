@@ -1,0 +1,274 @@
+Tag,Count,Key,Value,Weight
+"('highway', 'service')",12556,highway,service,100.0
+"('highway', 'residential')",7917,highway,residential,63.39966528530443
+"('highway', 'footway')",6913,highway,footway,55.478402932738284
+"('surface', 'asphalt')",5835,surface,asphalt,100.0
+"('footway', 'sidewalk')",4337,footway,sidewalk,100.0
+"('footway', 'crossing')",2241,footway,crossing,1.0
+"('oneway', 'yes')",2158,oneway,yes,100.0
+"('highway', 'tertiary')",825,highway,tertiary,7.44588779088301
+"('highway', 'primary')",782,highway,primary,7.106630538731272
+"('crossing', 'uncontrolled')",671,crossing,uncontrolled,100.0
+"('crossing', 'traffic_signals')",628,crossing,traffic_signals,92.8212478920742
+"('crossing', 'marked')",621,crossing,marked,91.65261382799325
+"('name', 'Phố Minh Khai')",543,name,Phố Minh Khai,100.0
+"('surface', 'concrete')",491,surface,concrete,9.159340659340659
+"('lit', 'yes')",467,lit,yes,
+"('highway', 'secondary')",353,highway,secondary,3.7219477207523113
+"('name', 'Đường Số 1 Times City')",353,name,Đường Số 1 Times City,65.29520295202953
+"('name', 'Đường Số 4')",288,name,Đường Số 4,53.42250922509225
+"('surface', 'paving_stones')",257,surface,paving_stones,5.181662087912088
+"('oneway', 'no')",253,oneway,no,1.0
+"('name', 'Đường Số 5 Times City')",247,name,Đường Số 5 Times City,45.93357933579336
+"('surface', 'concrete:plates')",209,surface,concrete:plates,4.365728021978022
+"('crossing', 'unmarked')",208,crossing,unmarked,22.70320404721754
+"('highway', 'primary_link')",196,highway,primary_link,2.4832642652215493
+"('highway', 'steps')",176,highway,steps,2.3254701944532994
+"('name', 'Đường Số 7 Times City')",172,name,Đường Số 7 Times City,32.23431734317343
+"('name', 'Phố Kim Ngưu')",171,name,Phố Kim Ngưu,32.05166051660517
+"('name', 'Ngõ 13 Đường Lĩnh Nam')",126,name,Ngõ 13 Đường Lĩnh Nam,23.83210332103321
+"('name', 'Đường Số 2 Times City')",113,name,Đường Số 2 Times City,21.457564575645755
+"('name', 'Đường Số 3 Times City')",112,name,Đường Số 3 Times City,21.274907749077492
+"('name', 'Đường Trần Khát Chân')",94,name,Đường Trần Khát Chân,17.987084870848708
+"('name', 'Phố Đinh Tiên Hoàng')",89,name,Phố Đinh Tiên Hoàng,17.07380073800738
+"('name', 'Đường Đại Cồ Việt')",86,name,Đường Đại Cồ Việt,16.525830258302584
+"('name', 'Phố Lê Thái Tổ')",85,name,Phố Lê Thái Tổ,16.343173431734318
+"('name', 'Phố Quang Trung')",82,name,Phố Quang Trung,15.79520295202952
+"('name', 'Phố Chùa Quỳnh')",79,name,Phố Chùa Quỳnh,15.247232472324724
+"('name', 'Phố Nguyễn Đình Chiểu')",78,name,Phố Nguyễn Đình Chiểu,15.064575645756458
+"('crossing', 'zebra')",78,crossing,zebra,1.0
+"('highway', 'pedestrian')",75,highway,pedestrian,1.5286101370736374
+"('name', 'Phố Nhà Chung')",71,name,Phố Nhà Chung,13.785977859778598
+"('name', 'Phố Lò Đúc')",68,name,Phố Lò Đúc,13.238007380073801
+"('highway', 'path')",65,highway,path,1.4497131016895124
+"('name', 'Phố Hồng Mai')",63,name,Phố Hồng Mai,12.324723247232471
+"('name', 'Ngõ 622 Phố Minh Khai')",58,name,Ngõ 622 Phố Minh Khai,11.411439114391143
+"('name', 'Phố Thanh Nhàn')",57,name,Phố Thanh Nhàn,11.228782287822877
+"('name', 'Vinhomes Times City')",55,name,Vinhomes Times City,10.863468634686347
+"('highway', 'secondary_link')",55,highway,secondary_link,1.3708160663053874
+"('name', 'Phố Hàng Đào')",52,name,Phố Hàng Đào,10.31549815498155
+"('name', 'Phố Nguyễn Văn Viên')",51,name,Phố Nguyễn Văn Viên,10.132841328413285
+"('name', 'Đường Số 1')",49,name,Đường Số 1,9.767527675276753
+"('name', 'Phố Võ Thị Sáu')",47,name,Phố Võ Thị Sáu,9.402214022140221
+"('name', 'Phố Phan Chu Trinh')",46,name,Phố Phan Chu Trinh,9.219557195571955
+"('name', 'Phố Gia Ngư')",41,name,Phố Gia Ngư,8.306273062730627
+"('name', 'Phố Nhà Thờ')",39,name,Phố Nhà Thờ,7.940959409594096
+"('name', 'Phố Nguyễn Khắc Cần')",39,name,Phố Nguyễn Khắc Cần,7.940959409594096
+"('name', 'Ngõ E8 Kim Ngưu')",36,name,Ngõ E8 Kim Ngưu,7.392988929889299
+"('name', 'Phố Tạ Quang Bửu')",36,name,Phố Tạ Quang Bửu,7.392988929889299
+"('name', 'Phố Quỳnh Lôi')",35,name,Phố Quỳnh Lôi,7.210332103321033
+"('name', 'Ngõ 364 Minh Khai')",33,name,Ngõ 364 Minh Khai,6.845018450184502
+"('name', 'Bộ Giáo dục và Đào tạo')",32,name,Bộ Giáo dục và Đào tạo,6.662361623616236
+"('name', 'Ngõ 4 Quỳnh Lôi')",32,name,Ngõ 4 Quỳnh Lôi,6.662361623616236
+"('name', 'Đường Tam Trinh')",30,name,Đường Tam Trinh,6.297047970479705
+"('name', 'Phố Hàng Ngang')",28,name,Phố Hàng Ngang,5.931734317343174
+"('name', 'Phố Hàng Bồ')",28,name,Phố Hàng Bồ,5.931734317343174
+"('name', 'Phố Hàng Bạc')",28,name,Phố Hàng Bạc,5.931734317343174
+"('name', 'Ngõ 583')",28,name,Ngõ 583,5.931734317343174
+"('highway', 'tertiary_link')",26,highway,tertiary_link,1.142014663691425
+"('highway', 'trunk_link')",26,highway,trunk_link,1.142014663691425
+"('name', 'Ngõ 641 Phố Kim Ngưu')",25,name,Ngõ 641 Phố Kim Ngưu,5.3837638376383765
+"('name', 'Phố Cao Đạt')",25,name,Phố Cao Đạt,5.3837638376383765
+"('name', 'Phố Cầu Gỗ')",25,name,Phố Cầu Gỗ,5.3837638376383765
+"('name', 'Ngõ 88 Kim Ngưu')",24,name,Ngõ 88 Kim Ngưu,5.2011070110701105
+"('name', 'Phố Lý Quốc Sư')",23,name,Phố Lý Quốc Sư,5.018450184501845
+"('name', 'Ngõ 172')",23,name,Ngõ 172,5.018450184501845
+"('name', 'Ngõ 469 Kim Ngưu')",23,name,Ngõ 469 Kim Ngưu,5.018450184501845
+"('name', 'Ngõ 84 Kim Ngưu')",23,name,Ngõ 84 Kim Ngưu,5.018450184501845
+"('name', 'Ngõ 622 Minh Khai')",22,name,Ngõ 622 Minh Khai,4.8357933579335795
+"('name', 'Ngõ 487 Kim Ngưu')",22,name,Ngõ 487 Kim Ngưu,4.8357933579335795
+"('name', 'Ngõ 461 Trần Khát Chân')",22,name,Ngõ 461 Trần Khát Chân,4.8357933579335795
+"('surface', 'unpaved')",21,surface,unpaved,1.1699862637362637
+"('name', 'Phố Lê Thanh Nghị')",21,name,Phố Lê Thanh Nghị,4.6531365313653135
+"('name', 'Phố Hàng Trống')",21,name,Phố Hàng Trống,4.6531365313653135
+"('name', 'Ngách 13/21 Lĩnh Nam')",21,name,Ngách 13/21 Lĩnh Nam,4.6531365313653135
+"('name', 'Phố Yên Lạc')",20,name,Phố Yên Lạc,4.470479704797048
+"('name', 'Phố Hai Bà Trưng')",20,name,Phố Hai Bà Trưng,4.470479704797048
+"('name', 'Ngõ E4 Kim Ngưu')",19,name,Ngõ E4 Kim Ngưu,4.287822878228782
+"('name', 'Phố Phạm Sư Mạnh')",19,name,Phố Phạm Sư Mạnh,4.287822878228782
+"('name', 'Ngõ 260 Kim Ngưu')",18,name,Ngõ 260 Kim Ngưu,4.105166051660516
+"('name', 'Phố Yên Bái 2')",18,name,Phố Yên Bái 2,4.105166051660516
+"('name', 'Ngõ 31 Đại Cồ Việt')",17,name,Ngõ 31 Đại Cồ Việt,3.922509225092251
+"('name', 'Ngõ 174 Kim Ngưu')",17,name,Ngõ 174 Kim Ngưu,3.922509225092251
+"('name', 'Ranh giới khu phố cổ Hà Nội')",16,name,Ranh giới khu phố cổ Hà Nội,3.7398523985239853
+"('name', 'Ngõ Hòa Bình 7')",16,name,Ngõ Hòa Bình 7,3.7398523985239853
+"('name', 'Ngõ Xóm Hà Hồi')",16,name,Ngõ Xóm Hà Hồi,3.7398523985239853
+"('name', 'Ngõ 180 Phố Lò Đúc')",15,name,Ngõ 180 Phố Lò Đúc,3.5571955719557193
+"('name', 'Phố Bạch Mai')",15,name,Phố Bạch Mai,3.5571955719557193
+"('name', 'Phố Hàng Gai')",15,name,Phố Hàng Gai,3.5571955719557193
+"('name', 'Ngõ Phan Chu Trinh')",14,name,Ngõ Phan Chu Trinh,3.374538745387454
+"('name', 'Phố Chùa Vua')",14,name,Phố Chùa Vua,3.374538745387454
+"('name', 'Cầu vượt Trần Khát Chân')",14,name,Cầu vượt Trần Khát Chân,3.374538745387454
+"('name', 'Ngõ 536 Phố Minh Khai')",14,name,Ngõ 536 Phố Minh Khai,3.374538745387454
+"('name', 'Vân Hồ 3')",14,name,Vân Hồ 3,3.374538745387454
+"('name', 'Ngõ 187')",13,name,Ngõ 187,3.1918819188191883
+"('name', 'Ngõ 190 Phố Lò Đúc')",13,name,Ngõ 190 Phố Lò Đúc,3.1918819188191883
+"('name', 'Ngõ 257')",13,name,Ngõ 257,3.1918819188191883
+"('name', 'Phố Quỳnh Mai')",13,name,Phố Quỳnh Mai,3.1918819188191883
+"('name', 'Ngõ 189 Phố Thanh Nhàn')",13,name,Ngõ 189 Phố Thanh Nhàn,3.1918819188191883
+"('name', 'Ngõ 42 Phố Võ Thị Sáu')",12,name,Ngõ 42 Phố Võ Thị Sáu,3.0092250922509227
+"('name', 'Phố Bà Triệu')",12,name,Phố Bà Triệu,3.0092250922509227
+"('name', 'Phố Lý Thường Kiệt')",12,name,Phố Lý Thường Kiệt,3.0092250922509227
+"('name', 'Ngõ Tràng Tiền')",12,name,Ngõ Tràng Tiền,3.0092250922509227
+"('name', 'Ngõ 647 Phố Kim Ngưu')",12,name,Ngõ 647 Phố Kim Ngưu,3.0092250922509227
+"('name', 'Ngõ 102 Kim Ngưu')",12,name,Ngõ 102 Kim Ngưu,3.0092250922509227
+"('name', 'Ngõ 27 Đại Cồ Việt')",12,name,Ngõ 27 Đại Cồ Việt,3.0092250922509227
+"('name', 'Ngõ Hòa Bình 3')",12,name,Ngõ Hòa Bình 3,3.0092250922509227
+"('name', 'Ngõ 44 Phố Võ Thị Sáu')",12,name,Ngõ 44 Phố Võ Thị Sáu,3.0092250922509227
+"('name', 'Phố Trần Nhân Tông')",12,name,Phố Trần Nhân Tông,3.0092250922509227
+"('name', 'Ngõ 158 Phố Hồng Mai')",11,name,Ngõ 158 Phố Hồng Mai,2.8265682656826567
+"('name', 'Ngõ 279 Trần Khát Chân')",11,name,Ngõ 279 Trần Khát Chân,2.8265682656826567
+"('name', 'Ngách 10 Ngõ 156 Phố Hồng Mai')",11,name,Ngách 10 Ngõ 156 Phố Hồng Mai,2.8265682656826567
+"('surface', 'metal')",11,surface,metal,1.0
+"('name', 'Ngõ 54 Kim Ngưu')",11,name,Ngõ 54 Kim Ngưu,2.8265682656826567
+"('name', 'Ngõ 34 Vĩnh Tuy')",10,name,Ngõ 34 Vĩnh Tuy,2.643911439114391
+"('name', 'Cầu Vượt Trần Khát Chân')",10,name,Cầu Vượt Trần Khát Chân,2.643911439114391
+"('name', 'Ngõ Hòa Bình 2')",10,name,Ngõ Hòa Bình 2,2.643911439114391
+"('name', 'Phố Trần Hưng Đạo')",10,name,Phố Trần Hưng Đạo,2.643911439114391
+"('name', 'Ngõ 254 Kim Ngưu')",10,name,Ngõ 254 Kim Ngưu,2.643911439114391
+"('name', 'Hòa Bình Green City')",9,name,Hòa Bình Green City,2.461254612546125
+"('name', 'Phố Tràng Thi')",9,name,Phố Tràng Thi,2.461254612546125
+"('name', 'Ngõ 100 Kim Ngưu')",9,name,Ngõ 100 Kim Ngưu,2.461254612546125
+"('name', 'Phố Lê Đại Hành')",9,name,Phố Lê Đại Hành,2.461254612546125
+"('name', 'Phố Lạc Nghiệp')",9,name,Phố Lạc Nghiệp,2.461254612546125
+"('name', 'Cầu Kim Ngưu S3')",9,name,Cầu Kim Ngưu S3,2.461254612546125
+"('name', 'Ngõ Hòa Bình 4')",9,name,Ngõ Hòa Bình 4,2.461254612546125
+"('name', 'Ngõ 93 Nguyễn Đình Chiểu')",9,name,Ngõ 93 Nguyễn Đình Chiểu,2.461254612546125
+"('name', 'Ngõ 88 Chùa Quỳnh')",9,name,Ngõ 88 Chùa Quỳnh,2.461254612546125
+"('name', 'Ngõ Quỳnh')",9,name,Ngõ Quỳnh,2.461254612546125
+"('name', 'Ngõ 10 Phố 8 Tháng 3')",8,name,Ngõ 10 Phố 8 Tháng 3,2.2785977859778597
+"('name', 'Ngõ 624 Phố Minh Khai')",8,name,Ngõ 624 Phố Minh Khai,2.2785977859778597
+"('highway', 'track')",8,highway,track,1.0
+"('name', 'Phố 8 Tháng 3')",8,name,Phố 8 Tháng 3,2.2785977859778597
+"('name', 'Ngõ 124 Kim Ngưu')",8,name,Ngõ 124 Kim Ngưu,2.2785977859778597
+"('name', 'Phố Hàng Khay')",8,name,Phố Hàng Khay,2.2785977859778597
+"('name', 'Ngõ 302 Phố Minh Khai')",8,name,Ngõ 302 Phố Minh Khai,2.2785977859778597
+"('name', 'Ngách 624/12 Phố Minh Khai')",8,name,Ngách 624/12 Phố Minh Khai,2.2785977859778597
+"('name', 'Ngõ 254D Minh Khai')",8,name,Ngõ 254D Minh Khai,2.2785977859778597
+"('name', 'Ngõ 308 Phố Minh Khai')",7,name,Ngõ 308 Phố Minh Khai,2.095940959409594
+"('name', 'Ngõ 327 Thanh Nhàn')",7,name,Ngõ 327 Thanh Nhàn,2.095940959409594
+"('name', 'Ngách 17 Ngõ 295 Phố Bạch Mai')",7,name,Ngách 17 Ngõ 295 Phố Bạch Mai,2.095940959409594
+"('name', 'Ngõ 343 Phố Kim Ngưu')",7,name,Ngõ 343 Phố Kim Ngưu,2.095940959409594
+"('name', 'Phố Hàng Dầu')",7,name,Phố Hàng Dầu,2.095940959409594
+"('name', 'Ngõ 66 Đại Cồ Việt')",7,name,Ngõ 66 Đại Cồ Việt,2.095940959409594
+"('name', 'Ngõ 8 Quỳnh Lôi')",7,name,Ngõ 8 Quỳnh Lôi,2.095940959409594
+"('name', 'Ngõ 250 Kim Ngưu')",7,name,Ngõ 250 Kim Ngưu,2.095940959409594
+"('name', 'Ngõ 203 Kim Ngưu')",7,name,Ngõ 203 Kim Ngưu,2.095940959409594
+"('name', 'Ngõ 102+104')",7,name,Ngõ 102+104,2.095940959409594
+"('name', 'Phố Mạc Thị Bưởi')",7,name,Phố Mạc Thị Bưởi,2.095940959409594
+"('name', 'Ngõ Hòa Bình 1')",7,name,Ngõ Hòa Bình 1,2.095940959409594
+"('name', 'Ngõ 13')",6,name,Ngõ 13,1.9132841328413284
+"('name', 'Phố Bùi Ngọc Dương')",6,name,Phố Bùi Ngọc Dương,1.9132841328413284
+"('name', 'Phố Lê Văn Hưu')",6,name,Phố Lê Văn Hưu,1.9132841328413284
+"('name', 'Phố Hoa Lư')",6,name,Phố Hoa Lư,1.9132841328413284
+"('name', 'Cầu Kim Ngưu S2')",6,name,Cầu Kim Ngưu S2,1.9132841328413284
+"('name', 'Cầu Mai Động')",6,name,Cầu Mai Động,1.9132841328413284
+"('name', 'Ngõ 158 Phố Lò Đúc')",6,name,Ngõ 158 Phố Lò Đúc,1.9132841328413284
+"('name', 'Phố Hàm Long')",6,name,Phố Hàm Long,1.9132841328413284
+"('name', 'Ngõ 254 Minh Khai')",6,name,Ngõ 254 Minh Khai,1.9132841328413284
+"('name', 'Ngõ 168 Phố Lò Đúc')",6,name,Ngõ 168 Phố Lò Đúc,1.9132841328413284
+"('name', 'Ngõ 331 Trần Khát Chân')",6,name,Ngõ 331 Trần Khát Chân,1.9132841328413284
+"('name', 'Phố Hàn Thuyên')",6,name,Phố Hàn Thuyên,1.9132841328413284
+"('name', 'Ngõ 459 Phố Bạch Mai')",6,name,Ngõ 459 Phố Bạch Mai,1.9132841328413284
+"('name', 'Ngõ 9 Minh Khai')",6,name,Ngõ 9 Minh Khai,1.9132841328413284
+"('name', 'Ngõ 89 Nguyễn Đình Chiểu')",6,name,Ngõ 89 Nguyễn Đình Chiểu,1.9132841328413284
+"('name', 'Ngõ 40 Tạ Quang Bửu')",6,name,Ngõ 40 Tạ Quang Bửu,1.9132841328413284
+"('name', 'Ngõ Hòa Bình 5')",6,name,Ngõ Hòa Bình 5,1.9132841328413284
+"('name', 'Ngõ Hòa Bình 6')",5,name,Ngõ Hòa Bình 6,1.7306273062730626
+"('name', 'Ngõ 505 Trần Khát Chân')",5,name,Ngõ 505 Trần Khát Chân,1.7306273062730626
+"('name', 'Phố Nguyễn Công Trứ')",5,name,Phố Nguyễn Công Trứ,1.7306273062730626
+"('name', 'Ngõ 260 Phố Kim Ngưu')",5,name,Ngõ 260 Phố Kim Ngưu,1.7306273062730626
+"('name', 'Ngõ 186 Phố Hồng Mai')",5,name,Ngõ 186 Phố Hồng Mai,1.7306273062730626
+"('name', 'Ngõ 296 Phố Minh Khai')",5,name,Ngõ 296 Phố Minh Khai,1.7306273062730626
+"('name', 'Phố Thọ Lão')",5,name,Phố Thọ Lão,1.7306273062730626
+"('name', 'Ngõ 285')",5,name,Ngõ 285,1.7306273062730626
+"('name', 'Ngõ 22 phố Tạ Quang Bửu')",5,name,Ngõ 22 phố Tạ Quang Bửu,1.7306273062730626
+"('name', 'Ngõ 74 Kim Ngưu')",5,name,Ngõ 74 Kim Ngưu,1.7306273062730626
+"('name', 'Ngõ 17 Tạ Quang Bửu')",5,name,Ngõ 17 Tạ Quang Bửu,1.7306273062730626
+"('name', 'Cầu Kim Ngưu S4')",5,name,Cầu Kim Ngưu S4,1.7306273062730626
+"('name', 'Phố Đông Mác')",5,name,Phố Đông Mác,1.7306273062730626
+"('name', 'Ngõ 4 Nguyễn Đình Chiểu')",5,name,Ngõ 4 Nguyễn Đình Chiểu,1.7306273062730626
+"('name', 'Phố Vĩnh Tuy')",5,name,Phố Vĩnh Tuy,1.7306273062730626
+"('name', 'Ngõ 9 Quỳnh Lôi')",5,name,Ngõ 9 Quỳnh Lôi,1.7306273062730626
+"('name', 'Phố Vân Hồ 3')",5,name,Phố Vân Hồ 3,1.7306273062730626
+"('name', 'Ngõ 1 Tạ Quang Bửu')",5,name,Ngõ 1 Tạ Quang Bửu,1.7306273062730626
+"('name', 'Ngõ 44 Nguyễn Đình Chiểu')",5,name,Ngõ 44 Nguyễn Đình Chiểu,1.7306273062730626
+"('name', 'Ngõ 40')",5,name,Ngõ 40,1.7306273062730626
+"('name', 'Ngách 204/3')",5,name,Ngách 204/3,1.7306273062730626
+"('name', 'Phố Dương Văn Bé')",5,name,Phố Dương Văn Bé,1.7306273062730626
+"('name', 'Ngõ Tân Lập')",5,name,Ngõ Tân Lập,1.7306273062730626
+"('name', 'Cầu Lạc Trung')",4,name,Cầu Lạc Trung,1.547970479704797
+"('name', 'Phố Nguyễn Cao')",4,name,Phố Nguyễn Cao,1.547970479704797
+"('name', 'Ngõ 153 Phố Thanh Nhàn')",4,name,Ngõ 153 Phố Thanh Nhàn,1.547970479704797
+"('name', 'Ngõ 30 Tạ Quang Bửu')",4,name,Ngõ 30 Tạ Quang Bửu,1.547970479704797
+"('name', 'Ngõ 433 Phố Kim Ngưu')",4,name,Ngõ 433 Phố Kim Ngưu,1.547970479704797
+"('name', 'Ngõ 40 Võ Thị Sáu')",4,name,Ngõ 40 Võ Thị Sáu,1.547970479704797
+"('name', 'Ngõ 101 Thanh Nhàn')",4,name,Ngõ 101 Thanh Nhàn,1.547970479704797
+"('name', 'Ngõ 116 Phố Lò Đúc')",4,name,Ngõ 116 Phố Lò Đúc,1.547970479704797
+"('name', 'Ngõ 30 Nguyễn Đình Chiểu')",4,name,Ngõ 30 Nguyễn Đình Chiểu,1.547970479704797
+"('name', 'Ngách 14 Ngõ 156 Phố Hồng Mai')",4,name,Ngách 14 Ngõ 156 Phố Hồng Mai,1.547970479704797
+"('name', 'Phố Nguyễn Du')",4,name,Phố Nguyễn Du,1.547970479704797
+"('name', 'Ngõ 164 Hồng Mai')",4,name,Ngõ 164 Hồng Mai,1.547970479704797
+"('name', 'Ngõ 252')",4,name,Ngõ 252,1.547970479704797
+"('name', 'Ngõ 84 Phố Võ Thị Sáu')",3,name,Ngõ 84 Phố Võ Thị Sáu,1.3653136531365313
+"('name', 'Ngõ 96 Lò Đúc')",3,name,Ngõ 96 Lò Đúc,1.3653136531365313
+"('name', 'Phố Hoà Mã')",3,name,Phố Hoà Mã,1.3653136531365313
+"('name', 'Ngõ 433 Bạch Mai')",3,name,Ngõ 433 Bạch Mai,1.3653136531365313
+"('name', 'Ngõ 506 Bạch Mai')",3,name,Ngõ 506 Bạch Mai,1.3653136531365313
+"('name', 'Ngõ 37 Hồng Mai')",3,name,Ngõ 37 Hồng Mai,1.3653136531365313
+"('name', 'Ngõ 281 Trần Khát Chân')",3,name,Ngõ 281 Trần Khát Chân,1.3653136531365313
+"('name', 'Ngõ 269')",3,name,Ngõ 269,1.3653136531365313
+"('name', 'Phố Lê Lai')",3,name,Phố Lê Lai,1.3653136531365313
+"('name', 'Cầu vượt Ô Đông Mác')",3,name,Cầu vượt Ô Đông Mác,1.3653136531365313
+"('name', 'Phố Trần Nguyên Hãn')",3,name,Phố Trần Nguyên Hãn,1.3653136531365313
+"('name', 'Ngách 121/3 Kim Ngưu')",3,name,Ngách 121/3 Kim Ngưu,1.3653136531365313
+"('name', 'Ngõ 100 Nguyễn Văn Viên')",3,name,Ngõ 100 Nguyễn Văn Viên,1.3653136531365313
+"('name', 'Phố Đinh Lễ')",3,name,Phố Đinh Lễ,1.3653136531365313
+"('name', 'Phố Tô Hiến Thành')",3,name,Phố Tô Hiến Thành,1.3653136531365313
+"('name', 'Phố Tuệ Tĩnh')",3,name,Phố Tuệ Tĩnh,1.3653136531365313
+"('name', 'Phố Tràng Tiền')",3,name,Phố Tràng Tiền,1.3653136531365313
+"('name', 'Phố Phạm Đình Hổ')",3,name,Phố Phạm Đình Hổ,1.3653136531365313
+"('name', 'Ngõ 121 Kim Ngưu')",3,name,Ngõ 121 Kim Ngưu,1.3653136531365313
+"('name', 'Ngõ 150 Phố Lò Đúc')",3,name,Ngõ 150 Phố Lò Đúc,1.3653136531365313
+"('name', 'Ngõ 19 Nguyễn Công Trứ')",2,name,Ngõ 19 Nguyễn Công Trứ,1.1826568265682658
+"('name', 'Ngõ 19 Lạc Trung')",2,name,Ngõ 19 Lạc Trung,1.1826568265682658
+"('name', 'Ngõ 15 Tạ Quang Bửu')",2,name,Ngõ 15 Tạ Quang Bửu,1.1826568265682658
+"('name', 'Phố Nguyễn Xí')",2,name,Phố Nguyễn Xí,1.1826568265682658
+"('name', 'Ngõ 132 Phố Lò Đúc')",2,name,Ngõ 132 Phố Lò Đúc,1.1826568265682658
+"('name', 'Phố Ngô Quyền')",2,name,Phố Ngô Quyền,1.1826568265682658
+"('name', 'Ngõ 159')",2,name,Ngõ 159,1.1826568265682658
+"('name', 'Ngõ 108 Phố Lò Đúc')",2,name,Ngõ 108 Phố Lò Đúc,1.1826568265682658
+"('name', 'Phố Thợ Nhuộm')",2,name,Phố Thợ Nhuộm,1.1826568265682658
+"('name', 'Phố Hồ Hoàn Kiếm')",2,name,Phố Hồ Hoàn Kiếm,1.1826568265682658
+"('name', 'Ngõ 16 phố Tạ Quang Bửu')",2,name,Ngõ 16 phố Tạ Quang Bửu,1.1826568265682658
+"('name', 'Phố Trần Xuân Soạn')",2,name,Phố Trần Xuân Soạn,1.1826568265682658
+"('name', 'Ngõ 19 Phố Hồng Mai')",2,name,Ngõ 19 Phố Hồng Mai,1.1826568265682658
+"('name', 'Phố Lò Sũ')",2,name,Phố Lò Sũ,1.1826568265682658
+"('name', 'Ngõ 216')",2,name,Ngõ 216,1.1826568265682658
+"('name', 'Ngõ 27 Tạ Quang Bửu')",2,name,Ngõ 27 Tạ Quang Bửu,1.1826568265682658
+"('name', 'Ngõ 203 Phố Kim Ngưu')",1,name,Ngõ 203 Phố Kim Ngưu,1.0
+"('name', 'Phố Hồ Xuân Hương')",1,name,Phố Hồ Xuân Hương,1.0
+"('name', 'Ngõ 29 Hồng Mai')",1,name,Ngõ 29 Hồng Mai,1.0
+"('name', 'Ngõ 325 Kim Ngưu')",1,name,Ngõ 325 Kim Ngưu,1.0
+"('name', 'Ngõ 34 Kim Ngưu')",1,name,Ngõ 34 Kim Ngưu,1.0
+"('name', 'Phố Huế')",1,name,Phố Huế,1.0
+"('name', 'Phố Báo Khánh')",1,name,Phố Báo Khánh,1.0
+"('name', 'Ngõ 18 Nguyễn Đình Chiểu')",1,name,Ngõ 18 Nguyễn Đình Chiểu,1.0
+"('name', 'Ngõ 156 Kim Ngưu')",1,name,Ngõ 156 Kim Ngưu,1.0
+"('name', 'Ngõ 61 Nguyễn Đình Chiểu')",1,name,Ngõ 61 Nguyễn Đình Chiểu,1.0
+"('name', 'Ngõ 51 Nguyễn Đình Chiểu')",1,name,Ngõ 51 Nguyễn Đình Chiểu,1.0
+"('name', 'Ngõ 424 Trần Khát Chân')",1,name,Ngõ 424 Trần Khát Chân,1.0
+"('name', 'Ngõ Giếng Mứt')",1,name,Ngõ Giếng Mứt,1.0
+"('name', 'Phố Ngô Văn Sở')",1,name,Phố Ngô Văn Sở,1.0
+"('name', 'Phố Lương Văn Can')",1,name,Phố Lương Văn Can,1.0
+"('name', 'Phố Lạc Trung')",1,name,Phố Lạc Trung,1.0
+"('name', 'Không gian Văn hoá Việt')",1,name,Không gian Văn hoá Việt,1.0
+"('name', 'Ngách 1 Ngõ 203 Phố Kim Ngưu')",1,name,Ngách 1 Ngõ 203 Phố Kim Ngưu,1.0
+"('name', 'Ngách 295/75')",1,name,Ngách 295/75,1.0
+"('name', 'Ngách 295/85')",1,name,Ngách 295/85,1.0
+"('name', 'Ngách 90 Ngõ 13 Đường Lĩnh Nam')",1,name,Ngách 90 Ngõ 13 Đường Lĩnh Nam,1.0
+"('name', 'Ngõ 1 Đồng Nhân')",1,name,Ngõ 1 Đồng Nhân,1.0
+"('name', 'Trường Tiểu học Bạch Mai')",1,name,Trường Tiểu học Bạch Mai,1.0
+"('name', 'Phố Trần Quốc Toản')",1,name,Phố Trần Quốc Toản,1.0
+"('name', 'Ngõ 110')",1,name,Ngõ 110,1.0
+"('name', 'Phố Yec Xanh')",1,name,Phố Yec Xanh,1.0
