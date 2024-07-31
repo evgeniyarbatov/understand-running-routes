@@ -1,0 +1,251 @@
+Tag,Count
+"('sac_scale', 'hiking')",1588
+"('lit', 'no')",1377
+"('foot', 'yes')",1287
+"('bicycle', 'no')",965
+"('surface', 'dirt')",924
+"('highway', 'footway')",792
+"('width', '1')",678
+"('highway', 'cycleway')",597
+"('surface', 'gravel')",566
+"('highway', 'path')",545
+"('segregated', 'no')",520
+"('surface', 'asphalt')",519
+"('bicycle', 'yes')",442
+"('trail_visibility', 'good')",400
+"('name:zh', '中央集水区公园连道')",384
+"('name', 'Central Catchment Park Connector')",384
+"('oneway', 'no')",313
+"('name', 'MacRitchie Nature Trail')",311
+"('smoothness', 'good')",287
+"('name:zh', '麦里芝自然小径')",285
+"('trail_visibility', 'excellent')",285
+"('maxspeed', '50')",283
+"('lanes:forward', '1')",271
+"('lanes:backward', '1')",271
+"('lanes', '2')",271
+"('highway', 'service')",260
+"('smoothness', 'bad')",245
+"('highway', 'steps')",214
+"('highway', 'unclassified')",208
+"('highway', 'track')",185
+"('surface', 'ground')",178
+"('name', 'Rifle Range Road')",148
+"('name:zh', '射靶场')",148
+"('name', 'Rifle Range Link')",147
+"('name:zh', '射靶连接小径')",147
+"('width', '2')",143
+"('incline', 'down')",142
+"('access', 'private')",128
+"('lit', 'yes')",127
+"('wheelchair', 'no')",126
+"('surface', 'concrete')",125
+"('incline', 'up')",117
+"('smoothness', 'very_bad')",115
+"('ramp', 'no')",110
+"('sidewalk', 'left')",106
+"('name', 'Zheng Hua Park Connector')",98
+"('name:zh', '正华公园连道')",98
+"('width', '3')",94
+"('name:zh', '主路')",92
+"('name', 'Main Road')",92
+"('sidewalk', 'no')",85
+"('oneway', 'yes')",80
+"('cycleway:both', 'no')",79
+"('tracktype', 'grade3')",79
+"('name', 'Chestnut Avenue')",78
+"('foot', 'designated')",74
+"('name', 'Terentang Trail')",73
+"('name:zh', 'Terentang 小径')",73
+"('access', 'yes')",71
+"('name', 'Cave Path')",69
+"('name:zh', '洞穴小径')",69
+"('handrail', 'yes')",68
+"('name', 'Taban Loop')",66
+"('name:zh', '森小径')",66
+"('name', 'Sime Track')",66
+"('surface', 'unpaved')",65
+"('highway', 'residential')",64
+"('name', 'Reneges Path')",63
+"('surface:note', 'very worn out tarmac')",60
+"('name:zh', '牛乳场自然公园')",60
+"('name', 'Dairy Farm Nature Park')",60
+"('motor_vehicle', 'private')",59
+"('name', 'South View Path')",54
+"('name', 'Jungle Fall Path')",54
+"('tracktype', 'grade4')",51
+"('bicycle', 'designated')",51
+"('motor_vehicle', 'no')",50
+"('name:zh', '铁道走廊')",48
+"('source', 'survey')",48
+"('smoothness', 'intermediate')",48
+"('railway', 'abandoned')",48
+"('maxspeed:bicycle:official', '10')",48
+"('note', 'Between Tanjong Pagar & Woodlands. Closed 1 July 2011, track removed by Sept 2011')",48
+"('surface', 'paving_stones')",48
+"('name', 'Rail Corridor')",48
+"('maxspeed:bicycle:advisory', '10')",48
+"('name:ms', 'Koridor Kereta Api')",48
+"('tracktype', 'grade2')",45
+"('layer', '1')",44
+"('access', 'no')",44
+"('surface', 'compacted')",44
+"('name', 'Catchment Path')",43
+"('maxheight', '4')",42
+"('informal', 'no')",42
+"('smoothness', 'excellent')",39
+"('name', 'Hindhede Drive')",39
+"('name:zh', '登峰走道')",37
+"('name', 'Summit Path')",37
+"('surface', 'paved')",32
+"('sidewalk:left:surface', 'concrete')",32
+"('bridge', 'yes')",32
+"('surface', 'pebblestone')",30
+"('handrail', 'no')",27
+"('foot', 'no')",26
+"('mtb:scale:imba', '2')",23
+"('step_count', '150')",22
+"('surface', 'wood')",22
+"('sidewalk', 'none')",21
+"('surface', 'metal')",20
+"('bridge', 'boardwalk')",19
+"('name', 'Seraya Loop')",19
+"('lanes', '1')",19
+"('name', 'Wallace Trail')",18
+"('surface', 'grass')",17
+"('cutting', 'no')",17
+"('covered', 'yes')",15
+"('substance', 'water')",15
+"('man_made', 'pipeline')",15
+"('note', 'Temporarily closed due to landslide')",13
+"('name', 'North View Path')",13
+"('name:zh', '万礼公园连道')",13
+"('name', 'Mandai Park Connector')",13
+"('lane_markings', 'no')",12
+"('sidewalk', 'separate')",12
+"('highway', 'primary_link')",12
+"('sidewalk', 'both')",12
+"('check_date:surface', '2022-07-16')",12
+"('mapillary', '987667651999810')",11
+"('image', 'https://images.mapillary.com/nY1l0hEEIXX_1Roxc6SF9A/thumb-2048.jpg')",11
+"('width', '7.5')",10
+"('motorcar', 'no')",10
+"('name', 'Watchover Blue')",9
+"('surface', 'concrete:plates')",9
+"('horse', 'no')",9
+"('leisure', 'park')",8
+"('name', 'Car Park to Chestnut South Connector')",8
+"('check_date:surface', '2022-09-24')",8
+"('website', 'https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/chestnut-nature-park')",8
+"('smoking', 'no')",8
+"('pet', 'no')",8
+"('name', 'Chestnut Nature Park')",8
+"('note', 'Approximate boundary')",8
+"('fee', 'no')",8
+"('opening_hours', 'Mo-Su, PH 07:00-19:00')",8
+"('name:ms', 'Taman Alam Semula Jadi Chestnut')",8
+"('name:zh', '策士纳自然公园')",8
+"('sidewalk', 'right')",7
+"('image', 'https://images.mapillary.com/FkmgL1_OlGNq3xKAWMD2bg/thumb-2048.jpg')",7
+"('name', 'Jalan Asas')",7
+"('turn:lanes:forward', 'through')",7
+"('mapillary', '484312099321242')",7
+"('name:zh', '高尔夫球连接小径')",6
+"('trail_visibility', 'bad')",6
+"('foot', 'permissive')",6
+"('note', 'Lots of stairs climbing... (like alot)')",6
+"('surface', 'unhewn_cobblestone')",6
+"('note', 'There is now no evidence of this path on the ground (Apr 2016)')",6
+"('name', 'Golf Link')",6
+"('name', 'Hillview Park Connector')",6
+"('name:zh', '山景公园连道')",6
+"('image', 'https://images.mapillary.com/OJY-wwoo4igcJrxl7M9gaA/thumb-2048.jpg')",6
+"('mapillary', '136165381894277')",6
+"('name', 'Dairy Farm Loop')",6
+"('turn:lanes:backward', 'left;right')",6
+"('name:zh', 'Prunus 小径')",5
+"('footway', 'sidewalk')",5
+"('bicycle', 'permissive')",5
+"('name:zh', '公园连道')",5
+"('name', 'Park Connector')",5
+"('name', 'Prunus Trail')",5
+"('name', 'Tiup Tiup Path')",5
+"('mapillary', '816773939237997')",5
+"('alt_name', 'Rifle Range Viaduct')",5
+"('bridge', 'viaduct')",5
+"('mapillary', '1375478586155545')",5
+"('image', 'https://images.mapillary.com/WS_SIe3aMYVAMO2cIEWOqw/thumb-2048.jpg')",5
+"('name', 'Murnane Trail')",5
+"('image', 'https://images.mapillary.com/Br6o0auXiML264n8g6OlZQ/thumb-2048.jpg')",5
+"('turn:lanes', 'right')",5
+"('turn:lanes:backward', 'through')",5
+"('name', 'Bukit Panjang / Zheng Hua Park Connector')",4
+"('name', 'Chestnut Nature Park South Hiking Trail')",4
+"('turn:lanes:forward', 'left;right')",4
+"('name:zh', '甘榜小径')",4
+"('name', 'Kampong trail')",4
+"('name:zh', '武吉班让/正华 公园连道')",4
+"('turn:lanes:backward', 'left')",4
+"('width', '0.3')",4
+"('sac_scale', 'demanding_mountain_hiking')",4
+"('name', 'Bukit Drive')",4
+"('image', 'https://images.mapillary.com/VFT714IclCoUP8Yq7GcXBA/thumb-2048.jpg')",4
+"('name', 'Access')",4
+"('note', ""Was highway=path. Does it exist now? I don't see it Oct 2021"")",4
+"('width', '0.5')",4
+"('check_date:surface', '2023-10-29')",4
+"('mapillary', '296578125410287')",4
+"('name', 'Rifle Range Trail')",3
+"('name:zh', '射靶场小径')",3
+"('turn:lanes:backward', 'left;through')",3
+"('turn:lanes:forward', 'left;through')",3
+"('name', 'Kruing Path')",3
+"('name', 'Petai Trail')",2
+"('step_count', '26')",2
+"('tactile_paving', 'no')",2
+"('name', 'Slider')",2
+"('check_date:surface', '2022-11-06')",2
+"('name', 'Rambai Boardwalk')",2
+"('busway:left', 'lane')",2
+"('note', 'draft only, not accurate.')",2
+"('source', 'Yahoo aerial images')",2
+"('step_count', '100')",2
+"('image', 'https://images.mapillary.com/-g_f_NEdwadS6d7gDubafA/thumb-2048.jpg')",2
+"('mapillary', '2977369892584845')",2
+"('name', 'Jalan Bingka')",2
+"('sac_scale', 'mountain_hiking')",2
+"('highway', 'trunk_link')",2
+"('lanes', '3')",2
+"('lanes:bus', '1')",2
+"('lanes:bus:conditional', '1 @ (Mo-Fr 07:30-09:30,17:00-20:00)')",2
+"('destination', 'Dunearn Road;City')",2
+"('name', 'To.Tree.Top.Walk')",2
+"('access', 'customers')",1
+"('turn:lanes', 'through|through|right')",1
+"('material', 'wood')",1
+"('area', 'yes')",1
+"('name', 'Hindhede Link')",1
+"('name:zh', '海希德连接小径')",1
+"('covered', 'no')",1
+"('bicycle', 'dismount')",1
+"('operator:type', 'public')",1
+"('operator', 'MOE')",1
+"('name', 'Bukit Way')",1
+"('turn:lanes', 'left;through')",1
+"('name', 'Hindhede Place')",1
+"('maxheight', '3.80')",1
+"('name', 'Bukit Timah Park Connector')",1
+"('name:zh', '武吉知马公园连道')",1
+"('service', 'parking_aisle')",1
+"('turn:lanes:backward', 'left;through;right')",1
+"('footway', 'crossing')",1
+"('name:zh', '教育部 牛乳场探索中心')",1
+"('name', 'MOE Dairy Farm Adventure Centre')",1
+"('leisure', 'sports_centre')",1
+"('addr:street', 'Dairy Farm Road')",1
+"('addr:postcode', '679058')",1
+"('addr:housenumber', '30')",1
+"('name', 'Upper Bukit Timah Road')",1
+"('addr:city', 'Singapore')",1
+"('turn:lanes', 'through|right|right')",1
+"('waterway', 'dock')",1

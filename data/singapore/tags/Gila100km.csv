@@ -1,0 +1,902 @@
+Tag,Count
+"('highway', 'footway')",3303
+"('surface', 'asphalt')",3181
+"('lanes', '2')",1625
+"('oneway', 'yes')",1475
+"('highway', 'residential')",1468
+"('lanes:forward', '1')",1269
+"('lanes:backward', '1')",1248
+"('maxspeed', '50')",1147
+"('lit', 'no')",978
+"('highway', 'service')",959
+"('lit', 'yes')",932
+"('foot', 'yes')",856
+"('surface', 'concrete')",832
+"('maxspeed', '40')",812
+"('sac_scale', 'hiking')",801
+"('bicycle', 'no')",628
+"('sidewalk', 'left')",620
+"('highway', 'steps')",566
+"('surface', 'dirt')",564
+"('smoothness', 'good')",534
+"('lanes', '1')",515
+"('width', '1')",436
+"('oneway', 'no')",407
+"('footway', 'crossing')",382
+"('highway', 'primary')",381
+"('access', 'private')",377
+"('highway', 'cycleway')",376
+"('maxspeed', '60')",355
+"('bicycle', 'yes')",333
+"('highway', 'path')",298
+"('foot', 'designated')",275
+"('lanes', '3')",260
+"('segregated', 'no')",252
+"('bicycle', 'designated')",249
+"('source', 'Yahoo aerial images')",214
+"('incline', 'down')",212
+"('covered', 'yes')",208
+"('highway', 'secondary')",208
+"('name:zh', '乌鲁班丹公园连道')",203
+"('layer', '1')",202
+"('footway', 'sidewalk')",202
+"('name', 'Ulu Pandan Park Connector')",200
+"('handrail', 'yes')",187
+"('bridge', 'yes')",183
+"('service', 'driveway')",180
+"('ramp', 'no')",178
+"('sidewalk', 'both')",174
+"('surface', 'paved')",173
+"('lanes', '4')",168
+"('width', '3')",165
+"('name', 'MacRitchie Nature Trail')",157
+"('incline', 'up')",152
+"('source', 'GPS & Yahoo aerial images')",150
+"('name:zh', '主路')",149
+"('name', 'Main Road')",149
+"('sidewalk', 'right')",142
+"('trail_visibility', 'excellent')",142
+"('name:zh', '麦里芝自然小径')",140
+"('surface', 'paving_stones')",132
+"('wheelchair', 'no')",125
+"('highway', 'tertiary')",122
+"('name', 'Rifle Range Road')",118
+"('name:zh', '射靶场')",117
+"('highway', 'unclassified')",111
+"('smoothness', 'excellent')",111
+"('width', '2')",109
+"('name', 'Pasir Panjang Road')",106
+"('name:zh', '巴西班让路')",106
+"('turn:lanes:forward', 'through')",104
+"('maxheight', '4.5')",91
+"('turn:lanes:backward', 'through')",90
+"('service', 'parking_aisle')",90
+"('maxspeed', '15')",88
+"('name', 'Olive Road')",88
+"('name:zh', '立达路下段')",87
+"('name', 'Lower Delta Road')",87
+"('smoothness', 'very_bad')",86
+"('foot', 'no')",86
+"('maxspeed', '70')",84
+"('name', 'Mount Faber Road')",82
+"('name:zh', '花柏山路')",82
+"('covered', 'no')",79
+"('turn:lanes:forward', 'left;right')",77
+"('surface', 'ground')",77
+"('name:zh', '南波那维斯达路')",76
+"('name', 'South Buona Vista Road')",76
+"('name:zh', '那森路')",74
+"('name', 'Nassim Road')",74
+"('name:en', 'Nassim Road')",74
+"('3dr:type', 'Mount Faber Road')",74
+"('sidewalk', 'no')",73
+"('name:zh', '洞穴小径')",73
+"('name', 'Cave Path')",73
+"('busway:left', 'lane')",71
+"('surface', 'gravel')",70
+"('surface', 'unpaved')",70
+"('name:zh', '西海岸路')",69
+"('lanes:bus', '1')",69
+"('name:zh', '肯特岗弯')",69
+"('name', 'Kent Ridge Crescent')",69
+"('name', 'West Coast Road')",69
+"('name:zh', '射靶连接小径')",68
+"('name', 'Rifle Range Link')",68
+"('cutting', 'no')",68
+"('highway', 'primary_link')",68
+"('sidewalk:left', 'separate')",68
+"('name', 'Taban Loop')",67
+"('turn:lanes', 'through')",67
+"('name', 'Dairy Farm Nature Park')",66
+"('lanes:backward', '2')",66
+"('name:zh', '德普路')",66
+"('name:zh', '牛乳场自然公园')",66
+"('name', 'Depot Road')",66
+"('surface:note', 'very worn out tarmac')",66
+"('turn:lanes:backward', 'left;right')",64
+"('lanes:bus:conditional', '1 @ (Mo-Fr 07:30-09:30,17:00-20:00)')",64
+"('sidewalk:right', 'no')",63
+"('highway', 'living_street')",62
+"('motor_vehicle', 'private')",62
+"('name:zh', '科学园通道')",61
+"('smoothness', 'intermediate')",61
+"('name', 'Science Park Drive')",61
+"('name', 'Vigilante Drive')",60
+"('name:zh', '维安通道')",60
+"('name', 'Namly Avenue')",58
+"('name', 'Reneges Path')",58
+"('name', 'Catchment Path')",57
+"('lanes:forward', '2')",57
+"('tactile_paving', 'no')",54
+"('name', 'South View Path')",52
+"('motor_vehicle', 'no')",50
+"('maxspeed:type', 'sign')",49
+"('name', 'Clementi Road')",48
+"('name:zh', '金文泰路')",48
+"('highway', 'motorway_link')",46
+"('name:zh', '必比士路')",46
+"('name', 'Swiss Club Road')",46
+"('name', 'Pepys Road')",46
+"('turn:lanes', 'through|through')",45
+"('turn:lanes:backward', 'left')",45
+"('name', 'Marang Trail')",45
+"('name:zh', '玛朗小径')",45
+"('area', 'yes')",45
+"('highway', 'pedestrian')",45
+"('name', 'Jungle Fall Path')",45
+"('bicycle', 'dismount')",44
+"('sidewalk', 'separate')",44
+"('name', 'Lorong Sesuai')",44
+"('highway', 'trunk')",44
+"('name:zh', '格兰芝路')",43
+"('name', 'Grange Road')",43
+"('name', 'Kheam Hock Road')",43
+"('handrail', 'no')",41
+"('name:zh', '谦福路')",41
+"('smoothness', 'bad')",40
+"('access', 'no')",40
+"('name', 'Holland Road')",39
+"('name:zh', '荷兰路')",39
+"('name:zh', '惹兰甘榜彰德')",39
+"('name:zh', '登峰走道')",39
+"('name', 'Summit Path')",39
+"('name', 'Jalan Kampong Chantek')",39
+"('lanes', '5')",38
+"('bicycle', 'permissive')",38
+"('access', 'permissive')",38
+"('width', '7.5')",37
+"('motorcar', 'no')",37
+"('cycleway:both', 'no')",36
+"('name', 'Lengkok Bahru')",35
+"('highway', 'track')",35
+"('name', 'Terentang Trail')",35
+"('name:zh', '肯特岗通道')",35
+"('name', 'Kent Ridge Drive')",35
+"('name:zh', 'Terentang 小径')",35
+"('tunnel', 'no')",34
+"('name', 'Telok Blangah Rise')",34
+"('tracktype', 'grade3')",34
+"('turn:lanes', 'through|through|through')",34
+"('access', 'yes')",34
+"('foot', 'permissive')",33
+"('name:zh', '罗弄西素艾')",33
+"('name:zh', '第六道')",33
+"('name', 'Sixth Avenue')",33
+"('name:zh', '花柏山环道')",33
+"('name', 'Mount Faber Loop')",33
+"('name', 'Sime Track')",31
+"('name:zh', '森小径')",31
+"('note', 'Part of it estimated ???')",31
+"('turn:lanes:forward', 'left;through')",31
+"('turn:lanes', 'through|through;right')",30
+"('amenity', 'parking')",29
+"('name:zh', '肯特岗路')",29
+"('name:zh', '越岛连道')",29
+"('name', 'Kent Ridge Road')",29
+"('name', 'Coast-to-Coast Trail')",28
+"('name', 'Jalan Asas')",28
+"('noname', 'yes')",28
+"('sidewalk', 'none')",28
+"('turn:lanes:backward', 'left;through')",28
+"('turn:lanes', 'through|through|through|right')",27
+"('name', 'Wallace Trail')",27
+"('turn:lanes:forward', 'left')",26
+"('source', 'GPS')",25
+"('name', 'Upper Bukit Timah Road')",25
+"('alt_name', 'Coast-to-Coast Trail')",24
+"('name:zh', '罗尼公园连道')",24
+"('maxspeed', '25')",24
+"('name:zh', '乌节宝龙坊')",24
+"('name', 'Lornie Park Connector')",24
+"('name:zh', '武吉知马路上段')",24
+"('name', 'Orchard Promenade')",24
+"('turn:lanes', 'left')",23
+"('turn:lanes:backward', 'left;through;right')",23
+"('vehicle', 'no')",22
+"('maxheight', '4')",22
+"('name', 'Telok Blangah Road')",22
+"('name:zh', '直落布兰雅路')",22
+"('step_count', '150')",22
+"('fixme', 'resurvey')",22
+"('surface', 'concrete:plates')",22
+"('name', 'Reservoir Road')",22
+"('name', 'Pender Road')",22
+"('name:zh', '秉德路')",22
+"('surface', 'wood')",21
+"('landuse', 'grass')",21
+"('name', 'Thomson Road')",21
+"('turn:lanes:backward', 'through;right')",21
+"('layer', '-1')",21
+"('turn:lanes:forward', 'through;right')",21
+"('name', 'Jalan Tiong')",21
+"('turn:lanes', 'left|left')",21
+"('informal', 'no')",20
+"('name', 'Leonie Hill')",20
+"('turn:lanes', 'right|right')",20
+"('name', 'Andrew Road')",20
+"('name:zh', '西海岸公园连道')",19
+"('turn:lanes', 'left;through|through|through')",19
+"('junction', 'roundabout')",19
+"('name', 'West Coast Park Connector')",19
+"('name:zh', '中峇鲁路')",18
+"('tourism', 'attraction')",18
+"('name', 'Tiong Bahru Road')",18
+"('name', 'John Road')",18
+"('name', 'Alexandra Road')",18
+"('name', 'Cherry Avenue')",18
+"('name:zh', '亚历山大路')",18
+"('turn:lanes', 'left;through|through')",17
+"('sidewalk:left:surface', 'concrete')",17
+"('surface', 'pebblestone')",16
+"('survey:date', '2018-06-25')",16
+"('layer', '2')",16
+"('name:zh', '汤申路')",16
+"('name:en', 'Orchard Boulevard')",15
+"('name', 'Orchard Boulevard')",15
+"('name:zh-Hans', '乌节路林荫道')",15
+"('name:zh-Hant', '烏節路林蔭道')",15
+"('parking', 'surface')",15
+"('shoulder', 'no')",15
+"('name:zh', '莫斯路')",14
+"('name', 'Seraya Loop')",14
+"('maxspeed', '30')",14
+"('name', 'Morse Road')",14
+"('ramp:bicycle', 'yes')",14
+"('turn:lanes:backward', 'right')",13
+"('name', 'Wishart Road')",13
+"('name:zh', '威莎路')",13
+"('check_date:surface', '2022-09-24')",13
+"('width', '1.5')",13
+"('building', 'yes')",13
+"('turn:lanes', 'left;through|through|through|right')",13
+"('name', 'Swiss Club Link')",13
+"('image', 'http://storage8.openstreetcam.org/files/photo/2018/6/24/lth/1254851_f9fb4_2244.jpg')",13
+"('name', 'Bukit Tinggi Road')",13
+"('highway', 'trunk_link')",12
+"('name:zh', '女皇大道')",12
+"('name:zh', '美柏道')",12
+"('name:zh', '武吉知马公园连道')",12
+"('destination:ref', 'AYE')",12
+"('operator', 'PUB')",12
+"('mapillary', '1375478586155545')",12
+"('name', 'Maple Avenue')",12
+"('lanes', '6')",12
+"('turn:lanes', 'left|through|through|through|right')",12
+"('name', 'Bukit Timah Park Connector')",12
+"('surface', 'grass')",12
+"('image', 'https://images.mapillary.com/666rlHbGqWLUjlaBJlAfWA/thumb-2048.jpg')",12
+"('destination', 'Tuas')",12
+"('turn:lanes', 'through;right')",12
+"('turn:lanes', 'left|right')",12
+"('image', 'https://images.mapillary.com/WS_SIe3aMYVAMO2cIEWOqw/thumb-2048.jpg')",12
+"('landuse', 'construction')",12
+"('mapillary', '312465913787497')",12
+"('image', 'https://images.mapillary.com/QchboiCf_QjVwX3AcmhyKA/thumb-2048.jpg')",12
+"('check_date', '2021-09-05')",12
+"('mapillary', '312906557116516')",12
+"('name', 'Proposed 1200mm diameter potable water pipeline along Holland Road and Ulu Pandan Road from Rail corridor to Clementi Road')",12
+"('tunnel', 'yes')",12
+"('note', 'https://app.pub.gov.sg/constructionprojects/Pages/ShowLargeProj.aspx?par=vOt88MWfZwWCvpyjofcFJdXlyzdE2zttKAshC8uBjZw=')",12
+"('name', 'Queensway')",12
+"('opening_date', '2022-12-31')",12
+"('construction', 'waterway')",12
+"('lanes:backward', '3')",12
+"('mapillary', '987667651999810')",11
+"('image', 'https://images.mapillary.com/nY1l0hEEIXX_1Roxc6SF9A/thumb-2048.jpg')",11
+"('name', 'Marang Road')",10
+"('name:zh', '玛朗路')",10
+"('turn:lanes', 'through|through|through|right|right')",10
+"('fee', 'yes')",10
+"('bus', 'yes')",10
+"('bicycle', 'private')",10
+"('highway', 'secondary_link')",10
+"('name:zh', '商学连路')",10
+"('building:levels', '2')",10
+"('name', 'Business Link')",10
+"('turn:lanes:forward', 'left;through;right')",10
+"('lane_markings', 'no')",10
+"('name', 'Research Link')",10
+"('name:zh', '研究连路')",10
+"('turn:lanes', 'right')",10
+"('name', 'Redhill Road')",10
+"('name', 'Seton Close')",10
+"('name', 'Henderson Waves Bridge')",9
+"('name:zh', '亨德申波浪桥')",9
+"('wikidata', 'Q100288026')",9
+"('name', 'Heng Mui Keng Terrace')",9
+"('name:zh', '王美敬台')",9
+"('name:zh', '古鲁尼路')",9
+"('turn:lanes', 'left;right|right')",9
+"('highway', 'construction')",9
+"('name', 'Cluny Road')",9
+"('name', 'Jalan Jurong Kechil')",9
+"('substance', 'water')",9
+"('name:zh', '惹兰红山')",9
+"('addr:city', 'Singapore')",9
+"('segregated', 'yes')",9
+"('name', 'Jalan Bukit Merah')",9
+"('turn:lanes', 'through|through|right')",9
+"('man_made', 'pipeline')",9
+"('image', 'https://images.mapillary.com/OJY-wwoo4igcJrxl7M9gaA/thumb-2048.jpg')",8
+"('name', 'Lornie Road')",8
+"('mapillary', '136165381894277')",8
+"('parking:lane:both', 'no')",8
+"('name:zh', '纳比雅路')",8
+"('loc_name:zh', '植物园路')",8
+"('name', 'Bukit Ayer Molek')",8
+"('turn:lanes', 'left|through|through|through')",8
+"('name:zh', '班丹花园公园连道')",8
+"('parking:condition:left:vehicles', 'motorcar')",8
+"('name', 'Pandan Gardens Park Connector')",8
+"('name:zh', '杜尼安路')",8
+"('name', 'Napier Road')",8
+"('tactile_paving', 'yes')",8
+"('horse', 'no')",8
+"('name:zh', '联邦道')",8
+"('name', 'Commonwealth Avenue')",8
+"('name', 'Dunearn Road')",8
+"('parking:lane:left', 'parallel')",8
+"('note', 'Temporarily closed due to landslide')",8
+"('name', 'North View Path')",8
+"('name', 'Tanglin Road')",8
+"('parking:both', 'no')",8
+"('fixme:zh', '-')",8
+"('maxspeed:type', 'SG:urban')",7
+"('amenity', 'shelter')",7
+"('turn:lanes', 'left;right')",7
+"('turn:lanes', 'left;through')",7
+"('name', 'Second Avenue')",7
+"('name', 'One Tree Hill')",7
+"('addr:country', 'SG')",7
+"('name', 'Angullia Park')",7
+"('turn:lanes', 'left;through|none')",7
+"('crossing', 'zebra')",7
+"('mapillary', '190121876300761')",7
+"('turn:lanes:backward', 'left;through|through')",7
+"('turn:lanes:forward', 'through|through')",7
+"('image', 'https://images.mapillary.com/WIets6Yhf7q-jESDD9cvtA/thumb-2048.jpg')",7
+"('maxheight', '5')",7
+"('sidewalk:both', 'separate')",7
+"('name', 'Namly Grove')",7
+"('name', 'Chatsworth Road')",7
+"('turn:lanes', 'right|right|right')",7
+"('turn:lanes', 'none|none|none|right')",7
+"('name', 'Lock Road')",6
+"('name:zh', '洛克路')",6
+"('alt_name', 'Rifle Range Viaduct')",6
+"('shelter_type', 'weather_shelter')",6
+"('bench', 'yes')",6
+"('mapillary', '2999483830281610')",6
+"('image', 'https://images.mapillary.com/vLkImTcsPzjLTmNbLgSXTg/thumb-2048.jpg')",6
+"('turn:lanes', 'through|through|right|right')",6
+"('name', 'Kruing Path')",6
+"('bridge', 'viaduct')",6
+"('cycleway', 'crossing')",6
+"('image', 'https://images.mapillary.com/OrNTN_vTYin-Bt6IKKpVAg/thumb-2048.jpg')",6
+"('mapillary', '330623105081760')",6
+"('turn:lanes:backward', 'left;through|right')",6
+"('surface', 'metal')",6
+"('bridge', 'boardwalk')",6
+"('description', 'only emergency vehicles, people&bikes allowed')",6
+"('name', 'Dairy Farm Loop')",6
+"('source', 'survey')",6
+"('width', '10')",6
+"('name', 'Henderson Park Connector')",6
+"('turn:lanes', 'left;through|through;right')",6
+"('name:zh', '停车场B')",6
+"('name', 'Carpark B')",6
+"('name', 'Kent Ridge Terminal')",6
+"('name:zh', '肯特岗巴士终站')",6
+"('name', 'Murnane Trail')",6
+"('informal', 'yes')",6
+"('name:zh', '东陵路')",6
+"('embankment', 'no')",6
+"('note', 'staggered steps')",6
+"('name', 'Neo Pee Teck Lane')",6
+"('name:zh', '梁丕徳路')",6
+"('name:zh', '亨德申公园连道')",6
+"('destination', 'Toh Tuck Avenue')",6
+"('name', 'Telok Blangah Way')",6
+"('natural', 'peak')",6
+"('name:zh', '花柏坊')",6
+"('turn:lanes', 'none|through')",6
+"('sidewalk:left', 'no')",6
+"('name', 'Faber Point')",6
+"('fixme', 'outline')",6
+"('ele', '106')",6
+"('sidewalk:right', 'separate')",6
+"('note', 'Lots of stairs climbing... (like alot)')",6
+"('name', 'Elm Avenue')",6
+"('bridge:name', 'Lower Delta Flyover')",6
+"('name', 'Namly Garden')",5
+"('name', 'Telok Blangah Green')",5
+"('construction', 'footway')",5
+"('surface', 'compacted')",5
+"('name:zh', '停车场A')",5
+"('name:zh', '直落布兰雅埔')",5
+"('name', 'Holland Link')",5
+"('name:zh', '美景路')",5
+"('name', 'Mei Chin Road')",5
+"('turn:lanes', 'left|through|through|through|right|right')",5
+"('shelter', 'yes')",5
+"('name', 'Depot Close')",5
+"('name:zh', '德普弄')",5
+"('fenced', 'yes')",5
+"('name', 'Ulu Pandan Road')",5
+"('name', 'Arts Link')",5
+"('name:zh', '巴西班让弄')",5
+"('name:zh', '特利华士弯')",5
+"('name:en', 'Cluny Road')",5
+"('name:zh', '文礼大道')",5
+"('name', 'Boon Lay Way')",5
+"('name', 'Business Park Drive')",5
+"('name', 'Tudor Close')",5
+"('name', 'Toh Tuck Avenue')",5
+"('name:zh', '都德弄')",5
+"('building', 'roof')",5
+"('bin', 'yes')",5
+"('name:zh', '乌鲁班丹路')",5
+"('landuse', 'residential')",5
+"('name', 'Trevose Crescent')",5
+"('name', 'Pasir Panjang Close')",5
+"('note', 'Path temporarily closed')",5
+"('name', ""CP 'A'"")",5
+"('note', 'are the name tags rly needed?')",5
+"('dog', 'no')",5
+"('lanes:bus:conditional', '1 @ (Mo-Sa 07:30-23:00)')",5
+"('turn:lanes', 'through|right')",5
+"('name:zh', '文学连路')",5
+"('maxwidth', '5')",5
+"('turn:lanes:forward', 'left|through;right')",4
+"('mapillary', '487492129144276')",4
+"('name', 'Oei Tiong Ham Park')",4
+"('name:zh', '大威路')",4
+"('image', 'https://images.mapillary.com/rC6hoPNWKOL4atDdk_Jyrw/thumb-2048.jpg')",4
+"('name', 'Jalan Senandong')",4
+"('name:zh', '武吉知马路')",4
+"('addr:housenumber', '18')",4
+"('name:en', 'Dalvey Road')",4
+"('name', 'Dalvey Road')",4
+"('name', 'Clementi Woods Condo Entrance Drive 1')",4
+"('image', 'https://images.mapillary.com/Yb9tuhvBPKt47OaNEnJFyQ/thumb-2048.jpg')",4
+"('name', 'West Coast Rise')",4
+"('name', 'Bukit Timah Road')",4
+"('mapillary', '297593328669306')",4
+"('name', 'Mount Sinai Rise')",4
+"('addr:housenumber', '20')",4
+"('name:zh', '黄仲涵园')",4
+"('name', 'Summit Hut')",4
+"('crossing', 'marked')",4
+"('name:zh', '罗尼大道')",4
+"('name', 'Lornie Highway')",4
+"('mapillary', '495080468355580')",4
+"('name', 'Park Connector')",4
+"('name', 'Rifle Range Trail')",4
+"('turn:lanes', 'left;through;right')",4
+"('name:zh', '射靶场小径')",4
+"('name:zh', '公园连道')",4
+"('image', 'https://images.mapillary.com/fulIMkEY3nDcbiOy9wYi7Q/thumb-2048.jpg')",4
+"('name', 'Sime Road')",4
+"('width', '3 m')",4
+"('turn:lanes:forward', 'through|through;right')",4
+"('cutting', 'yes')",4
+"('surface', 'sett')",4
+"('name', 'De Souza Avenue')",4
+"('name', 'Signature Park')",4
+"('destination', 'Bukit Batok East Avenue 3')",4
+"('destination', 'Lower Delta Road;Telok Blangah Road')",4
+"('alt_name', 'Former KTM Jurong Spur')",4
+"('turn:lanes', 'left;through|right')",4
+"('railway', 'abandoned')",4
+"('turn:lanes:forward', 'left;through|through;right')",4
+"('name:zh', '登峰凉亭')",4
+"('place', 'suburb')",4
+"('name', 'West Coast Highway')",4
+"('parking:condition:right:vehicles', 'motorcar')",4
+"('name', 'Alexandra Garden Trail')",4
+"('name:zh', '亚历山大花园步径')",4
+"('name', 'Floral Walk')",4
+"('name', 'Lor Sarhad')",4
+"('name:zh', '罗弄沙哈')",4
+"('name', 'Balmeg Hill')",4
+"('cycleway', 'no')",4
+"('name', 'Namly Crescent')",4
+"('name', 'Zehnder Road')",4
+"('name:zh', '贞德路')",4
+"('name', 'Henderson Road')",4
+"('name', 'Namly Place')",4
+"('construction', 'service')",4
+"('parking:lane:right', 'perpendicular')",4
+"('name:zh', '锦绣小径')",4
+"('name:zh', '科学园路')",4
+"('turn:lanes:backward', 'left|through|right')",4
+"('turn:lanes', 'through|through|through|through')",4
+"('turn:lanes', 'left;through|through|through|through')",4
+"('name:zh', '郭氏道')",4
+"('name', 'Guok Avenue')",4
+"('name', 'Belmont Road')",4
+"('name', 'Science Park Road')",4
+"('turn:lanes:backward', 'right|right')",3
+"('width', '5')",3
+"('turn:lanes:backward', 'left|right')",3
+"('name:zh', '海得拉巴路')",3
+"('name', 'Toh Tuck Link')",3
+"('name:zh', '道德道')",3
+"('wheelchair', 'yes')",3
+"('name:zh', '武吉巴督东3道')",3
+"('mapillary', '2977369892584845')",3
+"('name', 'Pine Grove')",3
+"('name', 'Bukit Batok East Avenue 3')",3
+"('name', 'Toh Tuck Road')",3
+"('name', 'Hyderabad Road')",3
+"('check_date:surface', '2023-10-29')",3
+"('turn:lanes', 'left|left|left')",3
+"('turn:lanes', 'left|through|through|through|through')",3
+"('turn:lanes:backward', 'left|left')",3
+"('surface', 'grass_paver')",3
+"('turn:lanes', 'through|through|through;right|right|right')",3
+"('step_count', '26')",3
+"('crossing', 'traffic_signals')",3
+"('surface', 'unhewn_cobblestone')",3
+"('name', ""Queen's Close"")",3
+"('landuse', 'retail')",3
+"('turn:backward', 'none|through')",3
+"('parking', 'street_side')",3
+"('name', 'Golf Link')",3
+"('image', 'https://images.mapillary.com/-g_f_NEdwadS6d7gDubafA/thumb-2048.jpg')",3
+"('name', 'Ulu Pandan Park Connector (ROUGH)')",3
+"('leisure', 'park')",3
+"('name', 'Joan Road')",3
+"('image', 'https://images.mapillary.com/Br6o0auXiML264n8g6OlZQ/thumb-2048.jpg')",3
+"('turn:lanes', 'through|through|through|right|right|right')",3
+"('name', 'Harbourfront Avenue')",3
+"('name', 'Cuscaden Road')",3
+"('building:part', 'yes')",3
+"('turn:lanes:backward', 'through|through')",3
+"('addr:housenumber', '262')",3
+"('name:zh', '高尔夫球连接小径')",3
+"('turn:lanes', 'left|right|right')",3
+"('addr:postcode', '118628')",3
+"('name:zh', '16号停车场')",3
+"('addr:street', 'Pasir Panjang Road')",3
+"('name', 'Haw Par Villa')",3
+"('name:zh', '虎豹别墅')",3
+"('name', 'Carpark 16')",3
+"('trail_visibility', 'bad')",3
+"('opening_hours', '09:00-19:00')",3
+"('wikidata', 'Q1018484')",3
+"('wikipedia', 'en:Haw Par Villa')",3
+"('turn:lanes:forward', 'left;through|through')",3
+"('image', 'http://storage8.openstreetcam.org/files/photo/2018/6/24/lth/1254851_4bf47_2215.jpg')",3
+"('name', 'Lorong Sari')",3
+"('name:zh', '罗弄莎莉')",3
+"('surface', 'fine_gravel')",3
+"('mapillary', '816773939237997')",3
+"('proposed', 'footway')",2
+"('name', 'Pandan Valley')",2
+"('name:zh', '玛利蒙路')",2
+"('name', 'Bukit TImah-Rochor Green Corridor')",2
+"('name', 'Ewart Park')",2
+"('man_made', 'bridge')",2
+"('note', 'phase 1 https://www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks/bukit-timah-rochor-green-corridor')",2
+"('name', 'Old Holland Road')",2
+"('name', 'Marymount Road')",2
+"('name', 'Blackmore Drive')",2
+"('horse', 'private')",2
+"('foot', 'private')",2
+"('highway', 'proposed')",2
+"('maxspeed', '20')",2
+"('note', 'estimated')",2
+"('name:en', 'River Valley')",2
+"('name', 'First Avenue')",2
+"('name', 'River Valley')",2
+"('name', 'Orchard Turn')",2
+"('turn:lanes', 'left;through|through|through;right')",2
+"('name:zh', '尔卫民路')",2
+"('name', 'Irwell Bank Road')",2
+"('turn:lanes', 'left|left;right')",2
+"('turn:lanes', 'through|through|through;right')",2
+"('name', 'Namly Hill')",2
+"('name:zh', '中门路')",2
+"('name', 'Main Gate Road')",2
+"('name', 'Taman Nakhoda')",2
+"('name', 'Sommerville Estate Road')",2
+"('name', 'Leedon Road')",2
+"('source', 'Kaart Ground Survey 2017')",2
+"('name', 'Vanda Road')",2
+"('name:ta', 'நதி பள்ளத்தாக்கு')",2
+"('name:zh', '森路')",2
+"('name', 'Orchard')",2
+"('name:en', 'Sime Road')",2
+"('name:zh', '罗弄哈哇')",2
+"('name', 'Lorong Halwa')",2
+"('name', 'Swiss View')",2
+"('name', 'Binjai Park')",2
+"('name:zh', '明才园')",2
+"('sidewalk:right', 'yes')",2
+"('name', 'Swiss Club Avenue')",2
+"('name', 'Lermit Road')",2
+"('name:zh', '巴德申路')",2
+"('name', 'Paterson Road')",2
+"('wikidata', 'Q104535027')",2
+"('name:zh', '乌节')",2
+"('name:ta', 'ஓர்ச்சர்ட்')",2
+"('name:en', 'Orchard')",2
+"('name:zh', '里峇峇利')",2
+"('name', 'Canopy walk')",2
+"('turn:lanes', 'left;right|right|right')",2
+"('name:zh', '树冠步道')",2
+"('name', 'Alexandra Terrace')",2
+"('name:zh', '亚历山大台')",2
+"('name', 'Preston Road')",2
+"('name:zh', '普勒士顿路')",2
+"('name', 'Old Toh Tuck Road')",2
+"('turn:lanes', 'left;through|through|right')",2
+"('source', 'Bing')",2
+"('name', 'Jalan Rajawali')",2
+"('turn:lanes', 'none|none|through|through')",2
+"('turn:lanes', 'left;through|through|slight_left;slight_right')",2
+"('name', 'Hume Avenue')",2
+"('wikipedia', 'en:The Rail Mall')",2
+"('crossing', 'unmarked')",2
+"('wikidata', 'Q122355075')",2
+"('name', 'The Rail Mall')",2
+"('residential', 'landed')",2
+"('name', 'Jalan Siap')",2
+"('step_count', '16')",2
+"('name', 'Jungle Fall Hut')",2
+"('name', ""Carpark 'D'"")",2
+"('name', 'West Coast Vale')",2
+"('image', 'https://images.mapillary.com/ypqKAL4eBaoWSC9t5sjUKA/thumb-2048.jpg')",2
+"('bus', 'no')",2
+"('turn:lanes', 'left|through;right|right|right')",2
+"('amenity', 'school')",2
+"('width', '6')",2
+"('name', 'Car Park Exit')",2
+"('maxspeed', '5')",2
+"('name', 'Stellar Entrance')",2
+"('landuse', 'garages')",2
+"('landuse', 'flowerbed')",2
+"('note', 'access for cafe diners')",2
+"('building', 'train_station')",2
+"('name', 'Pasir Panjang Hill')",2
+"('name:zh', '巴西班让山')",2
+"('name', 'Stockport Road')",2
+"('name:zh', '史托波路')",2
+"('addr:housenumber', '2')",2
+"('turn:lanes', 'none|through;right')",2
+"('name:zh', '金文泰西1街')",2
+"('name', 'Clementi West Street 1')",2
+"('name', 'West Coast Walk')",2
+"('turn:lanes:backward', 'left;through|through;right')",2
+"('name:zh', '停车场D')",2
+"('mapillary', '323434975840734')",2
+"('lanes:bus:conditional', '2 @ (Mo-Fr 07:30-09:30,17:00-20:00)')",2
+"('turn:lanes', 'left|left;through|through|through')",2
+"('name', 'Stirling Road')",2
+"('name:zh', '史德林路')",2
+"('turn:lanes', 'none|through|through')",2
+"('ramp:wheelchair', 'separate')",2
+"('name', 'Rail Corridor Access')",2
+"('name:zh', '铁道走廊入点')",2
+"('name', 'Ghim Moh Road')",2
+"('width', '0.3')",2
+"('turn:lanes', 'left|left|right')",2
+"('mapillary', '530218671698291')",2
+"('mapillary', '473014027292919')",2
+"('image', 'https://images.mapillary.com/Wy_0vfrauKeEfftX9YKVKA/thumb-2048.jpg')",2
+"('sac_scale', 'demanding_mountain_hiking')",2
+"('name:zh', '联邦西道')",2
+"('name', 'Access')",2
+"('name', 'Commonwealth Avenue West')",2
+"('turn:lanes', 'left|through|through|through;right|right|right')",2
+"('ramp', 'separate')",2
+"('lanes:bus', '2')",2
+"('turn:lanes', 'left;through|through|through;right|right')",2
+"('image', 'https://images.mapillary.com/WzpQKmn0X2Pg00LGmbBGPA/thumb-2048.jpg')",2
+"('name', 'Marina Deck')",2
+"('name:zh', '滨海观景台')",2
+"('bench:seats', '4')",2
+"('mapillary', '296578125410287')",2
+"('destination', 'Lower Delta Road;Jalan Bukit Merah')",2
+"('image', 'https://images.mapillary.com/VFT714IclCoUP8Yq7GcXBA/thumb-2048.jpg')",2
+"('name', 'Hindhede Drive')",2
+"('fence:function', 'railing')",2
+"('building:material', 'glass')",1
+"('addr:postcode', '129782')",1
+"('addr:housenumber', '95')",1
+"('maxweight:signed', 'no')",1
+"('turn:lanes', 'left;through|through|through|through;right|right')",1
+"('building:material', 'stone')",1
+"('building:colour', '#a3a69f')",1
+"('building:min_level', '2')",1
+"('wikipedia', 'en:ION Orchard')",1
+"('roof:material', 'grass')",1
+"('roof:colour', '#7c9e4d')",1
+"('name', 'Varsity Park Entrance / Exit Road')",1
+"('addr:housenumber', '1')",1
+"('name', 'Petai Trail')",1
+"('addr:street', 'Nassim Road')",1
+"('name:zh', 'Prunus 小径')",1
+"('addr:street', 'Clementi Road')",1
+"('name', 'Conservatory Drive')",1
+"('roof:shape', 'flat')",1
+"('name', 'Prunus Trail')",1
+"('roof:levels', '1')",1
+"('name:zh', '音乐学院通道')",1
+"('fixme:zh', 'chinese name')",1
+"('name', 'The Japanese Primary School')",1
+"('name:zh', '日本人学校')",1
+"('building:colour', '#60646a')",1
+"('check_date:surface', '2022-11-06')",1
+"('turn:lanes', 'through;right|right|right')",1
+"('name', 'Engineering Drive 1')",1
+"('name:zh', '工程1通道')",1
+"('building:levels', '5')",1
+"('addr:postcode', '247908')",1
+"('addr:housenumber', '10')",1
+"('name:en', 'EtonHouse International School Orchard')",1
+"('addr:street', 'Tanglin Road')",1
+"('name:zh', '惹兰登布亚')",1
+"('turn:lanes:forward', 'left;right|right')",1
+"('name', 'West Coast Way')",1
+"('turn:lanes:forward', 'right|right')",1
+"('name', 'Camborne Road')",1
+"('wikidata', 'Q3146786')",1
+"('name:zh', '肯蒙路')",1
+"('name', 'Jalan Tempua')",1
+"('tracktype', 'grade2')",1
+"('name', 'Caldecott Close')",1
+"('step_count', '100')",1
+"('name', 'Coast to Coast Trail')",1
+"('fixme', 'continue')",1
+"('turn:lanes', 'left|through')",1
+"('fence_type', 'railing')",1
+"('barrier', 'fence')",1
+"('name', 'Jalan Tumpu')",1
+"('name', 'West Coast Grove')",1
+"('name:zh', '爱文士路')",1
+"('name:en', 'Evans Road')",1
+"('name', 'Evans Road')",1
+"('building', 'school')",1
+"('note', 'draft only, not accurate.')",1
+"('sac_scale', 'mountain_hiking')",1
+"('email', 'orchard@etonhouse.edu.sg')",1
+"('name', 'To.Tree.Top.Walk')",1
+"('isced:level', '1;2;3')",1
+"('max_age', '18')",1
+"('min_age', '5')",1
+"('name', 'EtonHouse International School Orchard')",1
+"('office', 'educational_institution')",1
+"('phone', '+65 6513 1155')",1
+"('website', 'https://www.etonhouse.edu.sg/school/orchard/')",1
+"('maxspeed', '10')",1
+"('name', 'West Coast View')",1
+"('turn:lanes', 'through|through;right|right')",1
+"('wikimedia_commons', 'Category:ION Orchard and The Orchard Residences')",1
+"('ramp', 'bicycle')",1
+"('website', 'https://www.ionorchard.com/')",1
+"('amenity', 'fuel')",1
+"('building', 'public')",1
+"('name', 'Jewel Box')",1
+"('mapillary', '497586764928338')",1
+"('image', 'https://images.mapillary.com/6_NPHRUTUiYOgkj6KEsCVA/thumb-2048.jpg')",1
+"('name', 'Anamalai Avenue')",1
+"('name:en', 'Anamalai Avenue')",1
+"('name:zh', '安娜马来道')",1
+"('turn:lanes', 'left|none|none|none|none')",1
+"('note', 'provisional data, needs checking')",1
+"('name:zh', '吉宝山')",1
+"('name', 'Keppel Hill')",1
+"('name:zh', '德普巷')",1
+"('name', 'Depot Lane')",1
+"('name', 'Namly Close')",1
+"('name', 'Namly View')",1
+"('description', 'PCN (labelled)')",1
+"('name:zh', '肯特岗山地骑行道')",1
+"('name', 'Kent Ridge MTB')",1
+"('website', 'https://www.capitaland.com/sg/en/lease/businesspark-industrial-logistics-listing/ascent.html')",1
+"('button_operated', 'yes')",1
+"('crossing:markings', 'dots')",1
+"('addr:housenumber', '174')",1
+"('addr:postcode', '278582')",1
+"('image', 'https://images.mapillary.com/nzyIwrFOd4atZwbSNlx4bg/thumb-2048.jpg')",1
+"('mapillary', '469148464366046')",1
+"('name', 'Faber Peak')",1
+"('note', 'Between Tanjong Pagar & Woodlands. Closed 1 July 2011, track removed by Sept 2011')",1
+"('turn:lanes:backward', 'left|right|right')",1
+"('boundary', 'administrative')",1
+"('name', 'Mount Sinai View')",1
+"('admin_level', '6')",1
+"('name', 'Moonbeam Walk')",1
+"('cycleway', 'share_sidewalk')",1
+"('maxspeed:bicycle:advisory', '10')",1
+"('maxspeed:bicycle:official', '10')",1
+"('name', 'Rail Corridor')",1
+"('name:zh', '铁道走廊')",1
+"('name', 'Holland Green')",1
+"('name:zh', '花柏山顶')",1
+"('horse', 'yes')",1
+"('name', 'Jalan Bingka')",1
+"('turn:lanes', 'left|through;right')",1
+"('turn:lanes', 'left|through|through|through;right|right')",1
+"('note', 'add exact curves')",1
+"('note', 'Maybe Not Used Currently')",1
+"('name', 'Sentosa Gateway Tunnel')",1
+"('mapillary', '1340485193004284')",1
+"('image', 'https://images.mapillary.com/M3soxWFPmOPeInfeyliGPA/thumb-2048.jpg')",1
+"('turn:lanes:backward', 'none|through')",1
+"('addr:street', 'Holland Road')",1
+"('brand', 'Esso')",1
+"('toilets', 'yes')",1
+"('brand:wikidata', 'Q867662')",1
+"('name:zh', '工程3通道')",1
+"('name', 'Engineering Drive 3')",1
+"('fixme', 'yes')",1
+"('name:zh', '大学联通道')",1
+"('name', 'College Link way')",1
+"('name:zh', '4A号停车场')",1
+"('name', 'Carpark 4A')",1
+"('turn:lanes', 'none|through|through|through|through|through;right')",1
+"('addr:housename', 'ION Orchard')",1
+"('addr:postcode', '238801')",1
+"('addr:street', 'Orchard Turn')",1
+"('air_conditioning', 'yes')",1
+"('building', 'commercial')",1
+"('name', 'ION Orchard')",1
+"('name:en', 'ION Orchard')",1
+"('name:ko', '아이온 오차드')",1
+"('name:zh', '愛雍·烏節')",1
+"('opening_hours', 'Mo-Su 10:00-22:00')",1
+"('operator', 'CapitaLand Ltd')",1
+"('phone', '+65 62388228')",1
+"('shop', 'mall')",1
+"('start_date', '2009-07-21')",1
+"('stroller', 'yes')",1
+"('name', 'Hon Sui Sen Drive')",1
+"('turn:lanes', 'none|right')",1
+"('name:zh', '韩瑞生通道')",1
+"('name', 'Tyersall Avenue')",1
+"('brand:wikipedia', 'en:Esso')",1
+"('name', 'Esso')",1
+"('name:zh', '埃索')",1
+"('operator', 'Esso')",1
+"('phone', '+65 6468 5258')",1
+"('name', 'Ascent Building')",1
+"('building:levels', '7')",1
+"('building', 'office')",1
+"('addr:street', 'Science Park Drive')",1
+"('addr:postcode', '118222')",1
+"('name:zh', '泰瑟道')",1
+"('alt_name', 'AS 2')",1
+"('fixme', 'rly one-way??')",1
+"('turn:lanes', 'left;through|right|right')",1
+"('building:levels', '1')",1
+"('turn:lanes', 'left|through|through|right')",1
+"('name', 'Luxe Ville')",1
+"('residential', 'condominium')",1
+"('name', 'Whitehaven')",1
+"('name:zh', '巴西班让通道')",1
+"('name', 'Pasir Panjang Drive')",1
+"('name', 'AS2')",1
+"('layer', '-2')",1

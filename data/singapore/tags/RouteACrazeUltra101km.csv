@@ -1,0 +1,432 @@
+Tag,Count
+"('sac_scale', 'hiking')",3888
+"('lit', 'no')",3694
+"('bicycle', 'no')",3235
+"('highway', 'footway')",3155
+"('surface', 'dirt')",2768
+"('width', '1')",2164
+"('foot', 'yes')",2002
+"('surface', 'asphalt')",1265
+"('highway', 'steps')",1251
+"('name', 'Dairy Farm Loop')",894
+"('highway', 'path')",819
+"('highway', 'service')",709
+"('name:zh', '牛乳场环道')",659
+"('oneway', 'no')",622
+"('note', 'Temporarily closed due to landslide')",619
+"('surface', 'concrete')",602
+"('trail_visibility', 'excellent')",597
+"('incline', 'down')",581
+"('smoothness', 'good')",575
+"('width', '2')",560
+"('bicycle', 'yes')",527
+"('access', 'private')",521
+"('lanes', '2')",510
+"('incline', 'up')",510
+"('segregated', 'no')",510
+"('lanes:forward', '1')",484
+"('lanes:backward', '1')",482
+"('highway', 'cycleway')",478
+"('width', '3')",464
+"('name', 'Main Road')",456
+"('name:zh', '主路')",456
+"('surface', 'gravel')",448
+"('smoothness', 'bad')",383
+"('surface', 'ground')",380
+"('ramp', 'no')",359
+"('wheelchair', 'no')",342
+"('highway', 'residential')",341
+"('trail_visibility', 'good')",337
+"('name:zh', '中央集水区公园连道')",319
+"('name', 'Central Catchment Park Connector')",319
+"('horse', 'no')",316
+"('lit', 'yes')",304
+"('name', 'Cave Path')",276
+"('name:zh', '洞穴小径')",276
+"('handrail', 'yes')",272
+"('name:zh', '策士纳自然公园 南步行小径')",270
+"('description', '2km, moderate difficulty, 40 min, yellow signage')",270
+"('name', 'Munia Trail, Chestnut Nature Park South Hiking Trail')",270
+"('maxspeed', '40')",267
+"('maxspeed', '50')",256
+"('name', 'Taban Loop')",254
+"('surface', 'metal')",237
+"('note', 'Lots of stairs climbing...')",235
+"('name', 'Catchment Path')",204
+"('name', 'South View Path')",204
+"('layer', '1')",196
+"('bridge', 'yes')",186
+"('oneway', 'yes')",185
+"('name', 'North View Path')",185
+"('highway', 'unclassified')",183
+"('name', 'Jungle Fall Path')",169
+"('name', 'MacRitchie Nature Trail')",168
+"('foot', 'designated')",168
+"('name:zh', '麦里芝自然小径')",149
+"('name', 'Venus Loop')",145
+"('highway', 'track')",140
+"('smoothness', 'intermediate')",140
+"('name', 'Reneges Path')",137
+"('name:zh', '罗尼小径')",136
+"('name', 'Lornie Trail')",136
+"('sidewalk', 'left')",135
+"('name', 'Summit Path')",129
+"('name:zh', '登峰走道')",129
+"('access', 'no')",127
+"('surface', 'paved')",116
+"('smoothness', 'very_bad')",116
+"('name', 'Rifle Range Road')",114
+"('name:zh', '射靶场')",114
+"('sidewalk', 'no')",111
+"('surface', 'wood')",106
+"('motor_vehicle', 'no')",106
+"('bicycle', 'designated')",100
+"('surface', 'paving_stones')",83
+"('covered', 'yes')",82
+"('step_count', '150')",82
+"('bridge', 'boardwalk')",82
+"('width', '1.5')",81
+"('access', 'yes')",80
+"('sidewalk', 'both')",79
+"('surface', 'unpaved')",78
+"('name', 'Chestnut Avenue')",76
+"('name', 'Rifle Range Link')",73
+"('name:zh', '射靶连接小径')",73
+"('note', 'Between Tanjong Pagar & Woodlands. Closed 1 July 2011, track removed by Sept 2011')",69
+"('name', 'Seraya Loop')",69
+"('name:zh', '铁道走廊')",67
+"('maxspeed:bicycle:advisory', '10')",67
+"('maxspeed:bicycle:official', '10')",67
+"('name', 'Rail Corridor')",67
+"('sidewalk', 'right')",65
+"('name', 'Windsor Park Road')",62
+"('surface:note', 'very worn out tarmac')",61
+"('name', 'Dairy Farm Nature Park')",61
+"('name:zh', '牛乳场自然公园')",61
+"('name', 'Venus Link')",57
+"('handrail', 'no')",56
+"('railway', 'abandoned')",55
+"('note', 'Lots of stairs climbing... (like alot)')",54
+"('source', 'survey')",53
+"('name:ms', 'Koridor Kereta Api')",52
+"('source', 'Yahoo aerial images')",51
+"('cycleway:both', 'no')",49
+"('name', 'To.Tree.Top.Walk')",47
+"('name:zh', '维纳士连道')",46
+"('surface', 'compacted')",45
+"('tracktype', 'grade3')",45
+"('image', 'https://images.mapillary.com/nY1l0hEEIXX_1Roxc6SF9A/thumb-2048.jpg')",43
+"('mapillary', '987667651999810')",43
+"('informal', 'no')",42
+"('tracktype', 'grade2')",42
+"('alt_name', 'Coast-to-Coast Trail')",40
+"('maxspeed', '25')",40
+"('maxheight', '4')",39
+"('image', 'https://images.mapillary.com/WS_SIe3aMYVAMO2cIEWOqw/thumb-2048.jpg')",39
+"('name', 'Jalan Kampong Chantek')",39
+"('mapillary', '1375478586155545')",39
+"('name', 'Namly Avenue')",39
+"('name:zh', '惹兰甘榜彰德')",39
+"('check_date:surface', '2022-07-16')",38
+"('smoothness', 'excellent')",38
+"('name', 'Binjai Park')",38
+"('name:zh', '明才园')",38
+"('tracktype', 'grade4')",37
+"('name:zh', '越岛连道')",37
+"('surface', 'concrete:plates')",36
+"('check_date:surface', '2023-10-29')",36
+"('covered', 'no')",35
+"('name:zh', 'Terentang 小径')",34
+"('name', 'Terentang Trail')",34
+"('name', 'Golf Link')",34
+"('name:zh', '高尔夫球连接小径')",34
+"('name', 'Coast-to-Coast Trail')",33
+"('note', 'This path seems to be closed for good')",33
+"('foot', 'no')",32
+"('tactile_paving', 'no')",30
+"('name:zh', '正华公园连道')",30
+"('name', 'Zheng Hua Park Connector')",30
+"('maxspeed', '70')",29
+"('surface', 'unhewn_cobblestone')",29
+"('name:zh', '森小径')",28
+"('width', '7.5')",28
+"('motorcar', 'no')",28
+"('name', 'Sime Track')",28
+"('name', 'Adam Park Connector')",27
+"('mapillary', '312906557116516')",27
+"('name:zh', '亚当公园连道')",27
+"('wheelchair', 'yes')",27
+"('alt_name:zh', '越岛连道')",27
+"('image', 'https://images.mapillary.com/QchboiCf_QjVwX3AcmhyKA/thumb-2048.jpg')",27
+"('highway', 'trunk')",27
+"('fixme', 'resurvey')",27
+"('name', 'Reservoir Road')",27
+"('mapillary', '136165381894277')",26
+"('image', 'https://images.mapillary.com/OJY-wwoo4igcJrxl7M9gaA/thumb-2048.jpg')",26
+"('bicycle', 'dismount')",26
+"('name', 'Chestnut Nature Park South Hiking Trail')",26
+"('image', 'https://images.mapillary.com/vLkImTcsPzjLTmNbLgSXTg/thumb-2048.jpg')",25
+"('mapillary', '2999483830281610')",25
+"('name', 'Kruing Path')",24
+"('name', 'Lim Bo Seng memorial')",23
+"('surface', 'turf')",23
+"('memorial', 'stele')",23
+"('material', 'stone')",23
+"('historic', 'memorial')",23
+"('lanes', '1')",23
+"('name:zh', '林謀盛纪念区')",23
+"('foot', 'permissive')",22
+"('vehicle', 'no')",22
+"('name', 'No Entry')",22
+"('lanes', '3')",21
+"('motor_vehicle', 'private')",21
+"('horse', 'yes')",20
+"('disused', 'yes')",20
+"('name', 'Jering Trail')",19
+"('turn:lanes:backward', 'left')",19
+"('width', '2.5')",19
+"('sidewalk', 'none')",19
+"('cutting', 'no')",19
+"('name', 'Wallace Trail')",19
+"('name', 'Dunearn Road')",18
+"('name', 'pipeline track')",17
+"('name', 'Third Avenue')",17
+"('surface', 'pebblestone')",15
+"('name:zh', '杜尼安路')",15
+"('mtb:scale:imba', '2')",15
+"('highway', 'trunk_link')",15
+"('sidewalk:left:surface', 'concrete')",14
+"('name', 'Drongo Trail')",14
+"('mapillary', '816773939237997')",13
+"('image', 'https://images.mapillary.com/Br6o0auXiML264n8g6OlZQ/thumb-2048.jpg')",13
+"('name', 'Lornie Park Connector')",13
+"('service', 'driveway')",13
+"('name:zh', '罗尼公园连道')",13
+"('image', 'https://images.mapillary.com/Yb9tuhvBPKt47OaNEnJFyQ/thumb-2048.jpg')",12
+"('mapillary', '297593328669306')",12
+"('footway', 'sidewalk')",12
+"('temporary:access', 'no')",12
+"('image', 'https://images.mapillary.com/NaBOSea1PLg11QPAkfz3Ug/thumb-2048.jpg')",12
+"('mapillary', '4065053720253195')",12
+"('name:zh', '武吉知马路')",11
+"('layer', '2')",11
+"('tactile_paving', 'yes')",11
+"('name', 'Bukit Timah Road')",11
+"('check_date:surface', '2022-09-24')",11
+"('footway', 'crossing')",11
+"('turn:lanes:backward', 'left;right')",10
+"('mapillary', '312465913787497')",10
+"('ramp:bicycle', 'yes')",10
+"('surface', 'grass')",10
+"('name', 'Second Avenue')",10
+"('name', 'Namly Close')",10
+"('sidewalk:right', 'no')",10
+"('mapillary', '300114848450241')",10
+"('image', 'https://images.mapillary.com/666rlHbGqWLUjlaBJlAfWA/thumb-2048.jpg')",10
+"('sidewalk:left', 'separate')",10
+"('image', 'https://images.mapillary.com/2165uCtumy1U6xTBHfRqSQ/thumb-2048.jpg')",10
+"('access', 'permissive')",9
+"('fixme', 'continue')",9
+"('step_count', '26')",9
+"('lanes', '4')",9
+"('lane_markings', 'no')",8
+"('highway', 'primary')",8
+"('service', 'parking_aisle')",8
+"('man_made', 'pipeline')",8
+"('substance', 'water')",8
+"('maxspeed', '60')",8
+"('name', 'Hindhede Drive')",8
+"('name', 'Duchess Avenue')",7
+"('step_count', '31')",7
+"('name', 'Venus Road')",7
+"('parking:lane:both', 'no')",7
+"('turn:lanes', 'through|through')",7
+"('layer', '-1')",7
+"('turn:lanes', 'left;through|through|through')",7
+"('name', 'Dairy Farm Road')",6
+"('name:zh-Hant', '大盤尾步道')",6
+"('name', 'Squirrel Trail')",6
+"('name:zh', '松鼠步道')",6
+"('name:zh-Hans', '大盘尾步道')",6
+"('name:zh', '牛乳场路')",6
+"('maxheight', '4.5')",6
+"('name', 'Rifle Range Trail')",6
+"('name', 'Duchess Road')",6
+"('landuse', 'grass')",6
+"('name:en', 'Drongo Trail')",6
+"('name:zh', '射靶场小径')",6
+"('step_count', '5')",6
+"('name', 'Bukit Ayer Molek')",6
+"('turn:lanes:forward', 'left;through;right')",6
+"('surface', 'fine_gravel')",6
+"('name:zh', '大盘尾步道')",6
+"('turn:lanes:forward', 'left;through')",5
+"('name', 'Murnane Trail')",5
+"('service', 'alley')",5
+"('tunnel', 'yes')",5
+"('name:zh', '维纳士环道')",5
+"('name', 'Chestnut Nature Park South Biking Trail')",5
+"('name', 'Watchover Blue')",5
+"('name', 'Camden Park')",5
+"('name', 'Capricorn Drive')",5
+"('name:zh', '甘登园')",5
+"('informal', 'yes')",4
+"('smoking', 'no')",4
+"('website', 'https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/chestnut-nature-park')",4
+"('name', 'Holland Green Linear Park')",4
+"('name:zh', '荷兰埔线性公园')",4
+"('name', 'Coronation Walk')",4
+"('note', ""Was highway=path. Does it exist now? I don't see it Oct 2021"")",4
+"('opening_hours', 'Mo-Su, PH 07:00-19:00')",4
+"('man_made', 'bridge')",4
+"('busway:left', 'lane')",4
+"('pet', 'no')",4
+"('name:ms', 'Taman Alam Semula Jadi Chestnut')",4
+"('note', 'Approximate boundary')",4
+"('name:zh', '策士纳自然公园')",4
+"('bridge', 'viaduct')",4
+"('name', 'Chestnut Nature Park')",4
+"('leisure', 'park')",4
+"('fee', 'no')",4
+"('sidewalk', 'separate')",4
+"('name:zh', 'Chemperai 小径')",4
+"('name', 'Chemperai Trail')",4
+"('name', 'Coast to Coast Trail')",4
+"('alt_name', 'Rifle Range Viaduct')",4
+"('name', 'Jupiter Road')",4
+"('lanes:bus', '1')",4
+"('lanes:bus:conditional', '1 @ (Mo-Fr 07:30-09:30,17:00-20:00)')",4
+"('step_count', '48')",4
+"('name:zh', '亚当路')",4
+"('name', 'Princess of Wales Road')",4
+"('trail_visibility', 'bad')",4
+"('name:zh', '公园连道')",4
+"('name', 'Park Connector')",4
+"('name', 'Hillview Road')",4
+"('name', 'Adam Road')",4
+"('name:zh', '加冕径')",4
+"('lanes:backward', '3')",4
+"('amenity', 'parking')",4
+"('image', 'https://images.mapillary.com/VFT714IclCoUP8Yq7GcXBA/thumb-2048.jpg')",4
+"('mapillary', '296578125410287')",4
+"('turn:lanes:backward', 'through;right')",3
+"('turn:lanes', 'left')",3
+"('name', 'Bukit Panjang / Zheng Hua Park Connector')",3
+"('bicycle', 'permissive')",3
+"('parking', 'surface')",3
+"('highway', 'primary_link')",3
+"('name', 'Jalan Jambu Mawar')",3
+"('horse', 'unknown')",3
+"('name', 'Holland Link')",3
+"('parking:lane:left', 'parallel')",3
+"('parking:condition:left:vehicles', 'motorcar')",3
+"('name', 'Venus Drive')",3
+"('image', 'https://images.mapillary.com/-g_f_NEdwadS6d7gDubafA/thumb-2048.jpg')",3
+"('mapillary', '2977369892584845')",3
+"('lanes', '5')",3
+"('name:zh', '武吉班让/正华 公园连道')",3
+"('destination:ref', 'PIE')",3
+"('destination', 'Farrer Road,Adam Road')",3
+"('name', 'Adam Park')",3
+"('step_count', '2')",3
+"('proposed', 'footway')",2
+"('name', 'Sixth Avenue')",2
+"('highway', 'proposed')",2
+"('name', 'Bukit TImah-Rochor Green Corridor')",2
+"('parking:lane:right', 'parallel')",2
+"('note', 'phase 1 https://www.nparks.gov.sg/partner-us/volunteer/friends-of-the-parks/bukit-timah-rochor-green-corridor')",2
+"('name', 'Lornie Road')",2
+"('parking:condition:right:vehicles', 'motorcar')",2
+"('name', 'Jalan Siantan')",2
+"('name', 'Prince of Wales Road')",2
+"('name', 'Old Holland Road')",2
+"('name:zh', '第六道')",2
+"('turn:lanes:backward', 'left|through|right')",2
+"('turn:lanes:forward', 'through')",2
+"('name', 'Laurel Wood Avenue')",2
+"('name', 'Yarwood Avenue')",2
+"('highway', 'secondary')",2
+"('source', 'GPS & Yahoo aerial images')",2
+"('name', 'Upper Thomson Road')",2
+"('bus', 'yes')",2
+"('name', 'Mandai Park Connector')",2
+"('name', 'Prunus Trail')",2
+"('name:zh', 'Prunus 小径')",2
+"('name:zh', '禁区')",2
+"('note', 'draft only, not accurate.')",2
+"('bridge', 'no')",2
+"('turn:lanes:backward', 'left|left|right')",2
+"('lanes:forward', '2')",2
+"('sidewalk:both', 'separate')",2
+"('highway', 'tertiary')",2
+"('highway', 'tertiary_link')",2
+"('sac_scale', 'mountain_hiking')",2
+"('name', 'Car Park to Chestnut South Connector')",2
+"('name', 'Slider')",2
+"('note', 'There is now no evidence of this path on the ground (Apr 2016)')",2
+"('name:zh', '汤申路上段')",2
+"('name:zh', '万礼公园连道')",2
+"('width', '0.3')",2
+"('turn:lanes:backward', 'left;through;right')",2
+"('turn:lanes:forward', 'left')",2
+"('turn:lanes', 'through|through|through;right')",2
+"('name:zh', '华源道')",2
+"('name', 'Access')",2
+"('name:zh', '明才山')",2
+"('sac_scale', 'demanding_mountain_hiking')",2
+"('name', 'Hua Guan Avenue')",2
+"('name', 'Binjai Hill')",2
+"('ramp:wheelchair', 'yes')",1
+"('name', 'Kheam Hock Road')",1
+"('name', 'Toronto Road')",1
+"('step_count', '100')",1
+"('name', 'Jupiter Road Playground')",1
+"('leisure', 'playground')",1
+"('width', '0.5')",1
+"('ramp', 'yes')",1
+"('name', 'Sime Road')",1
+"('parking', 'multi-storey')",1
+"('fee', 'yes')",1
+"('golf_cart', 'designated')",1
+"('name:en', 'Kheam Hock Road')",1
+"('turn:lanes', 'left|through|through|through|through')",1
+"('amenity', 'shelter')",1
+"('shelter_type', 'public_transport')",1
+"('turn:lanes', 'left;through|through|through|through')",1
+"('name:zh', '谦福路')",1
+"('turn:lanes', 'left;through|through|through|right')",1
+"('turn:lanes', 'through|through|through|right')",1
+"('change:lanes', 'yes|not_right|no')",1
+"('wikipedia', 'en:The Rail Mall')",1
+"('step_count', '16')",1
+"('landuse', 'residential')",1
+"('name:zh', '祥端道')",1
+"('name', 'Sian Tuan Avenue')",1
+"('name:zh', '明才径')",1
+"('name', 'Binjai Walk')",1
+"('landuse', 'greenfield')",1
+"('name', 'Swiss Club Link')",1
+"('turn:lanes', 'left;right')",1
+"('name', 'Jalan Gaharu')",1
+"('name', 'Rambai Boardwalk')",1
+"('name', 'KTM')",1
+"('bridge:structure', 'truss')",1
+"('railway', 'disused')",1
+"('name', 'Old KTM Railway Trackbed')",1
+"('check_date:surface', '2022-11-06')",1
+"('area', 'yes')",1
+"('name', 'Jalan Haji Alias')",1
+"('material', 'wood')",1
+"('waterway', 'dock')",1
+"('name', 'Petai Trail')",1
+"('name:zh', '山景公园连道')",1
+"('turn:lanes', 'left;through|through|right')",1
+"('name', 'Upper Bukit Timah Road')",1
+"('name', 'Duchess Place')",1
+"('name', 'Jalan Asas')",1
+"('turn:lanes', 'left;through|none|none')",1
+"('wikidata', 'Q122355075')",1
+"('name', 'The Rail Mall')",1
+"('landuse', 'retail')",1
+"('residential', 'landed')",1
+"('name', 'Hillview Park Connector')",1

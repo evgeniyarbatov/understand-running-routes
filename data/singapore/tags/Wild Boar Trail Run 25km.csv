@@ -1,0 +1,167 @@
+Tag,Count
+"('lit', 'no')",1024
+"('sac_scale', 'hiking')",930
+"('bicycle', 'no')",701
+"('width', '1')",579
+"('surface', 'dirt')",574
+"('highway', 'path')",477
+"('highway', 'footway')",456
+"('foot', 'yes')",449
+"('name', 'MacRitchie Nature Trail')",323
+"('name:zh', '麦里芝自然小径')",297
+"('oneway', 'no')",295
+"('surface', 'asphalt')",289
+"('trail_visibility', 'excellent')",279
+"('smoothness', 'good')",210
+"('bicycle', 'yes')",207
+"('highway', 'steps')",169
+"('lanes:forward', '1')",160
+"('lanes:backward', '1')",160
+"('lanes', '2')",160
+"('maxspeed', '50')",158
+"('name:zh', '射靶场')",154
+"('surface', 'ground')",154
+"('name', 'Rifle Range Road')",154
+"('surface', 'gravel')",146
+"('name:zh', '射靶连接小径')",146
+"('name', 'Rifle Range Link')",146
+"('highway', 'service')",145
+"('highway', 'unclassified')",130
+"('wheelchair', 'no')",125
+"('width', '2')",104
+"('sidewalk', 'left')",99
+"('incline', 'down')",98
+"('access', 'private')",95
+"('width', '3')",91
+"('ramp', 'no')",90
+"('name', 'Main Road')",90
+"('name:zh', '主路')",90
+"('incline', 'up')",79
+"('cycleway:both', 'no')",77
+"('highway', 'track')",75
+"('name', 'Terentang Trail')",74
+"('name:zh', 'Terentang 小径')",74
+"('tracktype', 'grade3')",69
+"('name:zh', '森小径')",65
+"('name', 'Sime Track')",65
+"('surface', 'concrete')",63
+"('name', 'Reneges Path')",57
+"('name', 'Catchment Path')",56
+"('lit', 'yes')",54
+"('name', 'Jungle Fall Path')",51
+"('handrail', 'yes')",49
+"('surface', 'paving_stones')",45
+"('foot', 'designated')",45
+"('layer', '1')",43
+"('smoothness', 'very_bad')",43
+"('informal', 'no')",43
+"('name:zh', '登峰走道')",40
+"('name', 'Summit Path')",40
+"('name:zh', '洞穴小径')",36
+"('name', 'Cave Path')",36
+"('surface', 'paved')",35
+"('name', 'Taban Loop')",33
+"('sidewalk:left:surface', 'concrete')",30
+"('highway', 'residential')",28
+"('handrail', 'no')",27
+"('oneway', 'yes')",26
+"('bridge', 'yes')",24
+"('name', 'South View Path')",24
+"('sidewalk', 'none')",23
+"('bridge', 'boardwalk')",22
+"('surface', 'metal')",21
+"('access', 'yes')",20
+"('access', 'no')",20
+"('name:ms', 'Koridor Kereta Api')",19
+"('source', 'survey')",19
+"('segregated', 'no')",19
+"('railway', 'abandoned')",19
+"('note', 'Between Tanjong Pagar & Woodlands. Closed 1 July 2011, track removed by Sept 2011')",19
+"('name:zh', '铁道走廊')",19
+"('bicycle', 'designated')",19
+"('motor_vehicle', 'no')",19
+"('name', 'Rail Corridor')",19
+"('maxspeed:bicycle:advisory', '10')",19
+"('maxspeed:bicycle:official', '10')",19
+"('name', 'Seraya Loop')",18
+"('smoothness', 'bad')",15
+"('man_made', 'pipeline')",14
+"('surface', 'wood')",14
+"('substance', 'water')",14
+"('smoothness', 'intermediate')",14
+"('mapillary', '987667651999810')",12
+"('image', 'https://images.mapillary.com/nY1l0hEEIXX_1Roxc6SF9A/thumb-2048.jpg')",12
+"('name', 'North View Path')",11
+"('step_count', '150')",11
+"('note', 'Temporarily closed due to landslide')",11
+"('name', 'Hindhede Drive')",10
+"('smoothness', 'excellent')",10
+"('name', 'Tiup Tiup Path')",9
+"('lane_markings', 'no')",7
+"('sidewalk', 'no')",7
+"('bridge', 'viaduct')",7
+"('trail_visibility', 'bad')",7
+"('alt_name', 'Rifle Range Viaduct')",7
+"('mapillary', '484312099321242')",6
+"('image', 'https://images.mapillary.com/FkmgL1_OlGNq3xKAWMD2bg/thumb-2048.jpg')",6
+"('tracktype', 'grade2')",6
+"('name', 'Dairy Farm Loop')",6
+"('note', 'Lots of stairs climbing... (like alot)')",6
+"('sidewalk', 'right')",5
+"('name', 'Murnane Trail')",5
+"('sac_scale', 'demanding_mountain_hiking')",5
+"('image', 'https://images.mapillary.com/Br6o0auXiML264n8g6OlZQ/thumb-2048.jpg')",5
+"('name', 'Prunus Trail')",5
+"('name', 'Access')",5
+"('width', '0.3')",5
+"('mapillary', '816773939237997')",5
+"('name:zh', 'Prunus 小径')",5
+"('check_date:surface', '2023-10-29')",4
+"('mapillary', '296578125410287')",4
+"('highway', 'cycleway')",4
+"('foot', 'no')",4
+"('image', 'https://images.mapillary.com/VFT714IclCoUP8Yq7GcXBA/thumb-2048.jpg')",4
+"('step_count', '26')",4
+"('name:zh', '高尔夫球连接小径')",4
+"('name', 'Golf Link')",4
+"('tactile_paving', 'no')",4
+"('name', 'Jalan Bingka')",4
+"('name', 'Petai Trail')",4
+"('surface', 'compacted')",4
+"('image', 'https://images.mapillary.com/OJY-wwoo4igcJrxl7M9gaA/thumb-2048.jpg')",4
+"('mapillary', '136165381894277')",4
+"('mapillary', '1375478586155545')",3
+"('turn:lanes', 'right')",3
+"('check_date:surface', '2022-11-06')",3
+"('name', 'Rambai Boardwalk')",3
+"('horse', 'no')",3
+"('lanes', '1')",3
+"('image', 'https://images.mapillary.com/WS_SIe3aMYVAMO2cIEWOqw/thumb-2048.jpg')",3
+"('image', 'https://images.mapillary.com/-g_f_NEdwadS6d7gDubafA/thumb-2048.jpg')",2
+"('name', 'To.Tree.Top.Walk')",2
+"('amenity', 'shelter')",2
+"('name:zh', '射靶场小径')",2
+"('name', 'Rifle Range Trail')",2
+"('step_count', '100')",2
+"('mapillary', '2977369892584845')",2
+"('sac_scale', 'mountain_hiking')",2
+"('note', 'draft only, not accurate.')",2
+"('foot', 'permissive')",2
+"('building', 'yes')",2
+"('bench', 'yes')",2
+"('bench:seats', '4')",2
+"('image', 'https://images.mapillary.com/WzpQKmn0X2Pg00LGmbBGPA/thumb-2048.jpg')",2
+"('mapillary', '530218671698291')",2
+"('name', 'Jungle Fall Hut')",2
+"('shelter_type', 'weather_shelter')",2
+"('covered', 'yes')",2
+"('name:zh', '甘榜小径')",2
+"('bicycle', 'dismount')",2
+"('name', 'Kampong trail')",2
+"('area', 'yes')",1
+"('material', 'wood')",1
+"('name', 'Hindhede Link')",1
+"('covered', 'no')",1
+"('name:zh', '海希德连接小径')",1
+"('name', 'Kruing Path')",1
+"('waterway', 'dock')",1

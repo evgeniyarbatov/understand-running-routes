@@ -1,0 +1,684 @@
+Tag,Count
+"('highway', 'footway')",3003
+"('surface', 'asphalt')",2699
+"('highway', 'residential')",1564
+"('lanes', '2')",1463
+"('lanes:backward', '1')",1190
+"('lanes:forward', '1')",1185
+"('oneway', 'yes')",1017
+"('maxspeed', '50')",896
+"('maxspeed', '40')",854
+"('highway', 'service')",698
+"('lit', 'yes')",655
+"('foot', 'yes')",633
+"('highway', 'steps')",621
+"('bicycle', 'yes')",586
+"('surface', 'concrete')",580
+"('lanes', '1')",470
+"('sidewalk', 'left')",391
+"('sidewalk', 'both')",318
+"('surface', 'paved')",264
+"('covered', 'yes')",238
+"('surface', 'paving_stones')",234
+"('footway', 'sidewalk')",226
+"('incline', 'down')",209
+"('maxspeed', '60')",202
+"('oneway', 'no')",194
+"('highway', 'primary')",184
+"('access', 'private')",178
+"('layer', '1')",178
+"('lanes', '3')",176
+"('footway', 'crossing')",175
+"('incline', 'up')",154
+"('turn:lanes:backward', 'through')",153
+"('service', 'parking_aisle')",153
+"('shelter', 'yes')",135
+"('handrail', 'yes')",133
+"('sidewalk', 'right')",128
+"('smoothness', 'good')",126
+"('maxheight', '4.5')",126
+"('wheelchair', 'yes')",124
+"('turn:lanes:forward', 'through')",124
+"('source', 'GPS & Yahoo aerial images')",121
+"('service', 'driveway')",119
+"('highway', 'path')",114
+"('highway', 'pedestrian')",110
+"('highway', 'tertiary')",109
+"('bridge', 'yes')",108
+"('area', 'yes')",98
+"('motor_vehicle', 'no')",97
+"('foot', 'designated')",97
+"('name:zh', '肯特岗弯')",92
+"('name', 'Kent Ridge Crescent')",92
+"('name:zh', '必比士路')",90
+"('name', 'Pepys Road')",90
+"('name', 'Medical Drive')",85
+"('name:zh', '医学通道')",85
+"('highway', 'unclassified')",85
+"('highway', 'cycleway')",85
+"('landuse', 'grass')",84
+"('foot', 'no')",83
+"('name', 'Lower Kent Ridge Road')",83
+"('name:zh', '肯特岗路下段')",83
+"('bicycle', 'no')",81
+"('ramp', 'no')",79
+"('motor_vehicle', 'private')",77
+"('highway', 'living_street')",76
+"('name', 'South Buona Vista Road')",74
+"('name:zh', '南波那维斯达路')",74
+"('highway', 'secondary')",72
+"('name', 'Kent Ridge Road')",71
+"('name:zh', '肯特岗路')",71
+"('source', 'Bing')",68
+"('surface', 'wood')",67
+"('bicycle', 'designated')",67
+"('turn:lanes', 'through')",66
+"('psv', 'yes')",66
+"('maxspeed:type', 'sign')",63
+"('smoothness', 'excellent')",63
+"('name', 'Telok Blangah Road')",62
+"('name:zh', '直落布兰雅路')",62
+"('turn:lanes:forward', 'left;right')",62
+"('name', 'Mount Faber Road')",61
+"('segregated', 'no')",61
+"('name:zh', '花柏山路')",61
+"('3dr:type', 'Mount Faber Road')",59
+"('lanes', '4')",57
+"('maxspeed', '15')",53
+"('busway:left', 'lane')",51
+"('lanes:bus:conditional', '1 @ (Mo-Fr 07:30-09:30,17:00-20:00)')",51
+"('lanes:bus', '1')",51
+"('turn:lanes:backward', 'left;through')",50
+"('name', 'Pasir Panjang Road')",50
+"('name:zh', '巴西班让路')",50
+"('access', 'no')",49
+"('turn:lanes:forward', 'through;right')",46
+"('bicycle', 'dismount')",46
+"('name', 'Marang Trail')",45
+"('turn:lanes:backward', 'left;right')",45
+"('lit', 'no')",45
+"('name', 'Clementi Crescent')",45
+"('name:zh', '花柏山环道')",45
+"('name', 'Mount Faber Loop')",45
+"('name:zh', '玛朗小径')",45
+"('source', 'Yahoo aerial images')",44
+"('name:zh', '秉德路')",44
+"('name', 'Pender Road')",44
+"('turn:lanes:forward', 'left;through')",42
+"('tactile_paving', 'no')",40
+"('name:zh', '维安通道')",40
+"('building:min_level', '1')",40
+"('name', 'Vigilante Drive')",40
+"('layer', '-1')",39
+"('highway', 'primary_link')",39
+"('name', 'Cornwall Road')",39
+"('name:zh', '康华路')",39
+"('sidewalk:right', 'no')",39
+"('sidewalk:left', 'separate')",39
+"('roof:material', 'metal')",39
+"('description', 'PCN (labelled)')",38
+"('turn:lanes:backward', 'left')",38
+"('name', 'Telok Blangah Green')",38
+"('name:zh', '直落布兰雅埔')",38
+"('roof:levels', '1')",38
+"('building:levels', '1')",38
+"('name:zh', '乔治太子园')",38
+"('width', '1.5')",38
+"('name', ""Prince George's Park"")",38
+"('name:zh', '亚历山大路')",37
+"('name', 'Alexandra Road')",37
+"('horse', 'no')",37
+"('roof:orientation', 'along')",36
+"('roof:colour', '#e7e6e3')",36
+"('name:zh', '黄仲涵园')",36
+"('access', 'yes')",36
+"('sidewalk', 'no')",36
+"('roof:shape', 'round')",36
+"('building:part', 'roof')",36
+"('name', 'Oei Tiong Ham Park')",36
+"('name', 'Canterbury Road')",35
+"('name:zh', '坎特布里路')",35
+"('name', 'Depot Road')",33
+"('name:zh', '德普路')",33
+"('junction', 'roundabout')",33
+"('turn:lanes:forward', 'left')",32
+"('name', 'Hyderabad Road')",32
+"('name:zh', '海得拉巴路')",32
+"('amenity', 'parking')",31
+"('building', 'roof')",31
+"('name', 'Jalan Sampurna')",30
+"('name', 'Create Way')",30
+"('name', 'Labrador Villa Road')",30
+"('name:zh', '研创大道')",30
+"('name', 'East Sussex Lane')",29
+"('informal', 'yes')",29
+"('name:zh', '柏莎路')",28
+"('name', 'Berkshire Road')",28
+"('name:zh', '梅斯顿路')",28
+"('name', 'Maidstone Road')",28
+"('turn:lanes:backward', 'through;right')",28
+"('name', 'Holland Road')",27
+"('name', 'Sentosa Boardwalk')",27
+"('highway', 'construction')",27
+"('name:zh', '荷兰路')",27
+"('maxheight', '4')",27
+"('name:zh', '圣淘沙跨海步行道')",27
+"('smoothness', 'bad')",26
+"('height', '0')",26
+"('name', 'Royal Road')",25
+"('name:zh', '约克路')",25
+"('name', 'York Road')",25
+"('source', 'survey')",25
+"('name:zh', '乐雅路')",25
+"('note', 'provisional data, needs checking')",24
+"('width', '3')",23
+"('name', 'Kent Ridge Drive')",23
+"('name:zh', '肯特岗通道')",23
+"('turn:lanes', 'through|through')",23
+"('tourism', 'attraction')",22
+"('survey:date', '2018-06-25')",22
+"('name', 'Namly Crescent')",22
+"('name', 'Leedon Park')",22
+"('name', 'Biopolis Way')",21
+"('access', 'permissive')",21
+"('name', 'Henderson Road')",21
+"('maxspeed', '70')",21
+"('name', 'Namly Garden')",21
+"('construction', 'steps')",20
+"('turn:lanes', 'left;through|through|through')",19
+"('name', 'Ayer Rajah Crescent')",19
+"('image', 'http://storage8.openstreetcam.org/files/photo/2018/6/24/lth/1254851_f9fb4_2244.jpg')",19
+"('name:zh', '亚逸拉惹弯')",19
+"('building', 'yes')",18
+"('name', 'Temenggong Road')",18
+"('name', 'Telok Blangah Heights')",18
+"('turn:lanes', 'left;through|through;right')",18
+"('bridge', 'covered')",18
+"('name:zh', '天猛公路')",18
+"('name', 'Laurel Wood Avenue')",17
+"('name', 'Sentosa Gateway')",17
+"('noname', 'yes')",17
+"('turn:lanes', 'through|through|through')",17
+"('name', 'Sandwich Road')",17
+"('name:zh', '桑威芝路')",17
+"('name:zh', '学院东道')",16
+"('wikidata', 'Q100288026')",16
+"('name', 'North Buona Vista Drive')",16
+"('wheelchair', 'limited')",16
+"('tunnel', 'yes')",16
+"('name:zh', '研究连路')",16
+"('name', 'Research Link')",16
+"('name', 'Bury Road')",16
+"('name:zh', '思乐素滨径')",16
+"('lanes', '5')",16
+"('name', 'Siloso Beach Walk')",16
+"('name', 'Henderson Waves Bridge')",16
+"('name:zh', '亨德申波浪桥')",16
+"('name', 'College Avenue East')",16
+"('name:zh', '贝礼路')",16
+"('source', 'gps')",15
+"('name', 'Science Field')",15
+"('note:name:zh', 'fixme')",15
+"('name:zh', '科学操场')",15
+"('turn:lanes', 'left|left')",15
+"('name:zh', '锦绣小径')",15
+"('highway', 'corridor')",15
+"('name', 'Holland Green Linear Park')",15
+"('name:zh', '荷兰埔线性公园')",15
+"('indoor', 'yes')",15
+"('wheelchair', 'no')",15
+"('name', 'Floral Walk')",15
+"('bridge', 'boardwalk')",15
+"('name:zh', '拉柏多维拉路')",14
+"('turn:lanes', 'left;through')",14
+"('turn:lanes', 'left;through|through')",14
+"('turn:lanes', 'through|through;right')",14
+"('name:zh', '英比奥路')",14
+"('name:zh', '王美敬台')",14
+"('surface', 'tartan')",14
+"('name', 'Heng Mui Keng Terrace')",14
+"('turn:lanes:backward', 'left;through;right')",14
+"('name:zh', '金文泰路')",14
+"('name', 'Clementi Road')",14
+"('name', 'Imbiah Road')",14
+"('name', 'Bin Tong Park')",14
+"('lanes:forward', '2')",14
+"('parking', 'surface')",14
+"('name', 'College Link Walkway')",13
+"('name', 'Rail Corridor')",13
+"('name', 'Science Park Drive')",13
+"('turn:lanes', 'through|through|through|right')",13
+"('maxspeed:bicycle:advisory', '10')",13
+"('building:levels', '2')",13
+"('width', '5')",13
+"('maxspeed:bicycle:official', '10')",13
+"('name:zh', '科学园通道')",13
+"('name:zh', '大学联通人行道')",13
+"('name:zh', '铁道走廊')",13
+"('name', 'Morse Road')",12
+"('turn:lanes', 'left')",12
+"('smoothness', 'intermediate')",12
+"('name:zh', '莫斯路')",12
+"('turn:lanes', 'left;right')",12
+"('turn:lanes', 'left;right|right')",12
+"('name', 'Harbourfront Walk')",11
+"('maxspeed', '25')",11
+"('maxspeed:type', 'SG:urban')",11
+"('name:zh', '思乐素路')",11
+"('fixme:zh', '-')",11
+"('image', 'https://images.mapillary.com/u3mpjzJUButahAl1zNYhpA/thumb-2048.jpg')",11
+"('mapillary', '494458741998449')",11
+"('building:part', 'yes')",11
+"('name:zh', '巴拉望滨径')",11
+"('name', 'Palawan Beach Walk')",11
+"('name', 'Siloso Road')",11
+"('name', 'Folkestone Road')",10
+"('name:zh', '福斯顿路')",10
+"('name', 'Namly View')",10
+"('mapillary', '476896976853750')",10
+"('name', 'Mount Sinai Drive')",10
+"('image', 'https://images.mapillary.com/aY4C6b85X5EEvIPngDoOKg/thumb-2048.jpg')",10
+"('name:zh', '亚历山大花园步径')",10
+"('surface', 'dirt')",10
+"('turn:lanes:forward', 'through|right')",10
+"('name', 'Alexandra Garden Trail')",10
+"('name', 'Coronation Road West')",9
+"('name:zh', '加冕西路')",9
+"('name:zh', '第六道')",9
+"('building:levels', '3')",9
+"('name', 'Sixth Avenue')",9
+"('name', 'Namly Avenue')",9
+"('addr:city', 'Singapore')",9
+"('name:zh', '炮队南道')",9
+"('leisure', 'park')",9
+"('name', 'one-north Park')",9
+"('name:zh', '维壹公园')",9
+"('name', 'Artillery Avenue South')",9
+"('turn:lanes', 'left;through|none|none')",9
+"('name', 'Biomedical Grove')",9
+"('width', '1.2')",8
+"('parking', 'street_side')",8
+"('name', 'Holland Grove Drive')",8
+"('turn:lanes:backward', 'none')",8
+"('name:zh', '炮队道')",8
+"('turn:lanes', 'right|right')",8
+"('name', 'Artillery Avenue')",8
+"('handrail', 'no')",8
+"('name', 'Bridge inside Dover MRT Station')",8
+"('name', 'Guok Avenue')",8
+"('name:zh', '巴西班让弄')",8
+"('name', 'Harbourfront Avenue')",8
+"('name', 'Pasir Panjang Close')",8
+"('fee', 'yes')",8
+"('name:zh', '郭氏道')",8
+"('horse', 'yes')",8
+"('name', 'Mount Sinai Rise')",7
+"('name', 'Ulu Pandan Road')",7
+"('name:zh', '乌鲁班丹路')",7
+"('name', 'Pandan Valley')",7
+"('name:zh', '思乐素滨景')",7
+"('surface', 'sett')",7
+"('turn:lanes', 'through;right')",7
+"('note', 'Temporarily closed')",7
+"('construction', 'footway')",7
+"('name:zh', '玛朗路')",7
+"('name', 'Marang Road')",7
+"('name', 'Siloso Beach View')",7
+"('turn:lanes', 'left|through|through|through|right')",6
+"('crossing', 'zebra')",6
+"('name:zh', '亚逸拉惹道')",6
+"('turn:lanes', 'left|through|through|through')",6
+"('bus', 'yes')",6
+"('name:zh', '梁丕徳路')",6
+"('name', 'North Buona Vista Road')",6
+"('name:zh', '北波那维斯达路')",6
+"('natural', 'coastline')",6
+"('name', 'Neo Pee Teck Lane')",6
+"('name:zh', '停车场B')",6
+"('name:zh', '停车场A')",6
+"('name', 'Computing Drive')",6
+"('foot', 'permissive')",6
+"('lanes:backward', '3')",6
+"('layer', '2')",6
+"('name', 'Jalan Haji Alias')",6
+"('waterway', 'drain')",6
+"('name:zh', '电脑通道')",6
+"('natural', 'peak')",6
+"('name:zh', '花柏坊')",6
+"('name', 'Ayer Rajah Avenue')",6
+"('name', 'Faber Point')",6
+"('ele', '106')",6
+"('fixme', 'outline')",6
+"('turn:lanes:backward', 'right')",6
+"('name', 'Tan Boon Chong Avenue')",6
+"('turn:lanes', 'right')",5
+"('layer', '0')",5
+"('maxheight', '7.5')",5
+"('addr:country', 'SG')",5
+"('width', '6')",5
+"('name', 'Biopolis Street')",5
+"('turn:lanes', 'left|left;right|right')",5
+"('parking:both', 'no')",5
+"('name:zh', '学院连路')",5
+"('name', 'College Link')",5
+"('name', 'Carpark B')",5
+"('note', 'staggered steps')",5
+"('name:zh', '新加坡海岸綫')",5
+"('highway', 'secondary_link')",5
+"('name', 'Coastline of Singapore')",5
+"('name', 'Wishart Road')",5
+"('name', 'King Albert Park')",5
+"('dog', 'no')",5
+"('turn:lanes', 'left|left;through|through;right')",5
+"('turn:lanes', 'left|through|through;right')",5
+"('surface', 'turf')",5
+"('note', 'Path temporarily closed')",5
+"('source', 'Bing (DigitalGlobe-2010)')",5
+"('name', 'Telok Blangah Drive')",5
+"('name:zh', '威莎路')",5
+"('name:zh', '科学3通道')",4
+"('name', 'Canopy walk')",4
+"('parking:lane:right', 'perpendicular')",4
+"('parking:condition:right:vehicles', 'motorcar')",4
+"('addr:postcode', '098138')",4
+"('turn:lanes', 'left;through|right')",4
+"('name', 'Marina Deck')",4
+"('crossing', 'marked')",4
+"('name:zh', '滨海观景台')",4
+"('image', 'https://images.mapillary.com/M3soxWFPmOPeInfeyliGPA/thumb-2048.jpg')",4
+"('mapillary', '1340485193004284')",4
+"('turn:lanes', 'through|right')",4
+"('addr:housenumber', '26')",4
+"('name:zh', '树冠步道')",4
+"('name', 'Science Drive 3')",4
+"('name:zh', '维斯达台')",4
+"('fee', 'no')",4
+"('name', 'Vista Terrace')",4
+"('addr:street', 'Commonwealth Avenue West')",4
+"('building', 'construction')",4
+"('addr:street', 'Sentosa Gateway')",4
+"('short_name', 'YIH')",4
+"('fixme:zh', 'chinese name')",4
+"('name:zh', '尤索夫伊沙屋')",4
+"('destination', 'Henderson Road;Pasir Panjang Road')",4
+"('name', 'Yusof Ishak House')",4
+"('addr:postcode', '138677')",4
+"('name', 'Festive Walk')",4
+"('note', 'Between Tanjong Pagar & Woodlands. Closed 1 July 2011, track removed by Sept 2011')",4
+"('name:zh', '洛克路')",4
+"('name', 'Telok Blangah Street 31')",4
+"('name', 'Holland Grove Lane')",4
+"('note', 'are the name tags rly needed?')",4
+"('name:zh', '肯特岗巴士终站')",4
+"('name', 'Kent Ridge Terminal')",4
+"('name:zh', '启奥大道')",4
+"('name:zh', '工程1通道')",4
+"('name:zh', '杜佛地铁站B号出口')",4
+"('name', 'Dover Station Exit B')",4
+"('name', 'Engineering Drive 1')",4
+"('building', 'transportation')",4
+"('maxspeed', '30')",4
+"('turn:lanes', 'left;through|through|right')",4
+"('service', 'emergency_access')",4
+"('name', 'Fusionopolis Way')",4
+"('name', 'Lock Road')",4
+"('covered', 'no')",4
+"('name', ""CP 'A'"")",4
+"('name:zh', '节庆大道')",4
+"('roof:levels', '0')",4
+"('name', 'College Avenue West')",4
+"('name:zh', '学院西道')",4
+"('addr:housenumber', '200')",4
+"('turn:lanes', 'through|through|through|through')",4
+"('building', 'train_station')",4
+"('lane_markings', 'no')",4
+"('parking:condition:left:vehicles', 'motorcar')",3
+"('turn:lanes', 'none|through')",3
+"('name', 'Biopolis Drive')",3
+"('name:zh', '中央图书馆广场')",3
+"('step_count', '93')",3
+"('turn:lanes', 'left;through|none')",3
+"('name', 'College Link way')",3
+"('name:zh', '大学联通道')",3
+"('turn:lanes', 'left|none|none|none|none')",3
+"('short_name', 'CLB Plaza')",3
+"('source:width', 'ARCore')",3
+"('name', 'Central Library Plaza')",3
+"('parking:lane:left', 'parallel')",3
+"('surface', 'sand')",3
+"('turn:lanes:forward', 'left|right')",3
+"('image', 'https://images.mapillary.com/nkYWIMAV8-RuMuN7YnAnMw/thumb-2048.jpg')",3
+"('turn:lanes', 'left;through|through|through|right')",3
+"('addr:housenumber', '18')",3
+"('image', 'https://images.mapillary.com/ypqKAL4eBaoWSC9t5sjUKA/thumb-2048.jpg')",3
+"('bridge', 'viaduct')",3
+"('name:zh', '杜佛路')",3
+"('cycleway', 'no')",3
+"('lanes:backward', '2')",3
+"('turn:lanes', 'none|none|none|right')",3
+"('name', 'Dover Road')",3
+"('addr:housenumber', '20')",3
+"('mapillary', '841074699826591')",3
+"('surface', 'metal')",3
+"('turn:lanes:forward', 'left;through;right')",3
+"('name', 'Holland Grove View')",3
+"('turn:lanes', 'left|left|left')",3
+"('image', 'http://storage8.openstreetcam.org/files/photo/2018/6/24/lth/1254851_4bf47_2215.jpg')",3
+"('mapillary', '323434975840734')",3
+"('turn:lanes', 'left|through|through')",2
+"('name', 'Alexandra Terrace')",2
+"('name', 'West Coast Highway')",2
+"('sidewalk', 'none')",2
+"('name', 'Car Park A')",2
+"('traffic_calming', 'table')",2
+"('tactile_paving', 'yes')",2
+"('turn:lanes', 'left;through|through|right|right|right')",2
+"('name:zh', '亚历山大台')",2
+"('roof:shape', 'pyramidal')",2
+"('roof:colour', '#a4a69e')",2
+"('name:zh', '英比奥径')",2
+"('turn:lanes', 'left;through|through|slight_left;slight_right')",2
+"('name:zh', '文学连路')",2
+"('turn:lanes', 'left|slight_left;slight_right|right')",2
+"('mapillary', '283542369911789')",2
+"('image', 'https://images.mapillary.com/3aJ0c0HZXp4ZSwQo_wExzg/thumb-2048.jpg')",2
+"('step_count', '15')",2
+"('name', 'Imbiah Walk')",2
+"('turn:lanes', 'through|through|through|right|right')",2
+"('name', ""Carpark 'D'"")",2
+"('name', 'Arts Link')",2
+"('name:zh', '停车场D')",2
+"('source', 'bing')",2
+"('mapillary', '341628330825137')",2
+"('survey:date', '2017-01-17')",2
+"('fixme', 'check position')",2
+"('maxheight', 'default')",2
+"('name', 'Link Gate 7 to T19')",2
+"('name', 'Jalan Siantan')",2
+"('name:zh', '科学2通道')",2
+"('name', 'Science Drive 2')",2
+"('turn:lanes:backward', 'left|through|right')",2
+"('man_made', 'bridge')",2
+"('name', 'Holland Plain')",2
+"('name:zh', '体育2通道')",2
+"('highway', 'tertiary_link')",2
+"('name', 'Blackmore Drive')",2
+"('image', 'https://images.mapillary.com/666rlHbGqWLUjlaBJlAfWA/thumb-2048.jpg')",2
+"('mapillary', '312465913787497')",2
+"('name', 'Sports Drive 2')",2
+"('alt_name', 'Sports Drive')",2
+"('destination:street', 'Clementi Road')",2
+"('highway', 'trunk_link')",2
+"('name', 'Multi-story Car Park')",2
+"('note', 'Part of it estimated ???')",2
+"('name:zh', '联邦西道')",2
+"('name', 'Mount Sinai Crescent')",2
+"('building', 'toilets')",2
+"('name', 'Commonwealth Avenue West')",2
+"('sidewalk:both', 'separate')",2
+"('amenity', 'toilets')",2
+"('width', '2')",2
+"('incline', 'up/down')",2
+"('name:zh', '乌鲁班丹公园连道')",2
+"('name', 'Carpark 10 (Season)')",2
+"('name', 'Namly Drive')",2
+"('name', 'Ulu Pandan Park Connector')",2
+"('name:zh', '建筑通道')",2
+"('name', 'Epicentre')",2
+"('name', 'Architecture Drive')",2
+"('name', 'Kampong Bahru Road')",2
+"('name:zh', '10号停车场(季票)')",2
+"('name', 'Rail Corridor Access')",2
+"('layer', '-2')",2
+"('name', 'Engineering Drive 3')",2
+"('name:zh', '甘榜峇鲁路')",2
+"('surface', 'gravel')",2
+"('landuse', 'recreation_ground')",2
+"('leisure', 'garden')",2
+"('crossing', 'unmarked')",2
+"('name', 'Vista Exchange Green')",2
+"('name:zh', '工程3通道')",2
+"('turn:lanes', 'left;through|through|right|right')",2
+"('name', 'Jalan Jelita')",2
+"('name:zh', '铁道走廊入点')",2
+"('landuse', 'garages')",2
+"('turn:lanes', 'left;through;right')",2
+"('leisure', 'playground')",2
+"('landuse', 'flowerbed')",2
+"('barrier', 'hedge')",1
+"('name', 'Link from Biopolis to Tanglin Halt')",1
+"('name', ""CP 'B'"")",1
+"('image', 'https://images.mapillary.com/kKOVf-2eMXQmEmVLXQXltQ/thumb-2048.jpg')",1
+"('maxwidth', '5')",1
+"('name', 'Kent Ridge MTB')",1
+"('name:zh', '肯特岗山地骑行道')",1
+"('access', 'destination')",1
+"('fixme', 'Accessible for the public?')",1
+"('turn:lanes:forward', 'right')",1
+"('name:zh', '启汇坊')",1
+"('image', 'https://images.mapillary.com/Xp-JJduLvVO8mN1EeXZNmw/thumb-2048.jpg')",1
+"('name', 'Fusionopolis Place')",1
+"('mapillary', '437422330974217')",1
+"('opening_hours', '06:00-21:00')",1
+"('mapillary', '192770162681547')",1
+"('fixme', 'covered')",1
+"('name:zh', '西海岸路')",1
+"('name:zh', '马兰路')",1
+"('name', 'Jewel Box')",1
+"('name:en', 'Siloso Beach')",1
+"('name:zh', '西乐索海滩')",1
+"('natural', 'beach')",1
+"('wikidata', 'Q49324767')",1
+"('wikimedia_commons', 'Category:Siloso Beach')",1
+"('mapillary', '469148464366046')",1
+"('image', 'https://images.mapillary.com/nzyIwrFOd4atZwbSNlx4bg/thumb-2048.jpg')",1
+"('building', 'public')",1
+"('mapillary', '497586764928338')",1
+"('shop', 'ticket')",1
+"('image', 'https://images.mapillary.com/6_NPHRUTUiYOgkj6KEsCVA/thumb-2048.jpg')",1
+"('bin', 'yes')",1
+"('amenity', 'shelter')",1
+"('name:zh', '圣淘沙通路')",1
+"('turn:lanes', 'right|right|right')",1
+"('survey:date', '2017-01-15')",1
+"('mapillary', '2978812232340408')",1
+"('turn:lanes', 'through|through|right|right|right')",1
+"('name', 'Siloso Beach')",1
+"('mapillary', '934824400635756')",1
+"('name', 'Malan Road')",1
+"('landuse', 'retail')",1
+"('name:zh', '土地小径')",1
+"('name', 'Earth Trail')",1
+"('name:zh', '普勒士顿路')",1
+"('name', 'Preston Road')",1
+"('building:material', 'metal')",1
+"('name', 'The Knolls')",1
+"('name:zh', '德普弄')",1
+"('name', 'Depot Close')",1
+"('parking', 'multi-storey')",1
+"('image', 'https://images.mapillary.com/KECGRWDuVM25bmGSmjdB5w/thumb-2048.jpg')",1
+"('addr:street', 'Depot Road')",1
+"('addr:housenumber', '104C')",1
+"('note', 'Closed for repairs till Jul 2026 due to slope failure')",1
+"('turn:lanes:forward', 'left|through;right')",1
+"('name', 'Telok Blangah Rise')",1
+"('name:zh', '花柏山顶')",1
+"('name', 'Faber Peak')",1
+"('building', 'grandstand')",1
+"('roof:colour', '#ddddd')",1
+"('name', 'Namly Grove')",1
+"('building:colour', '#ddddd')",1
+"('building:levels', '4')",1
+"('name:zh', '科学4通道')",1
+"('name', 'Science Drive 4')",1
+"('name', 'Zehnder Road')",1
+"('name:zh', '贞德路')",1
+"('shelter_type', 'public_transport')",1
+"('note', 'no steps')",1
+"('note', 'just for 2,4 SouthBuona Vista Road')",1
+"('conveying', 'forward')",1
+"('name', 'Jalan Pasir Ria')",1
+"('name:zh', '惹兰巴西利亚')",1
+"('capacity', '56')",1
+"('bicycle_parking', 'stands')",1
+"('barrier', 'fence')",1
+"('amenity', 'bicycle_parking')",1
+"('name:zh', '迪尔路')",1
+"('name', 'Greenhouse')",1
+"('building', 'hospital')",1
+"('name:zh', '圣玛格烈路')",1
+"('landuse', 'forest')",1
+"('name:zh', '音乐学院通道')",1
+"('name', 'Conservatory Drive')",1
+"('name:zh', '工程4通道')",1
+"('name', 'Engineering Drive 4')",1
+"('addr:housenumber', '1')",1
+"('name', 'AS8')",1
+"('building:levels', '7')",1
+"('alt_name', 'AS 8')",1
+"('GFA', '10359sqm')",1
+"('landuse', 'meadow')",1
+"('name:zh', '科学1通道')",1
+"('intermittent', 'yes')",1
+"('name', 'Hon Sui Sen Drive')",1
+"('name:zh', '韩瑞生通道')",1
+"('name', 'Science Drive 1')",1
+"('name', 'Deal Road')",1
+"('name', ""Saint Margaret's Road"")",1
+"('building', 'retail')",1
+"('turn:lanes:backward', 'left|right|right')",1
+"('name:zh', '武吉知马路')",1
+"('name', 'Bukit Timah Road')",1
+"('highway', 'trunk')",1
+"('surface', 'fine_gravel')",1
+"('name', 'Sixth Crescent')",1
+"('name', 'West Coast Road')",1
+"('turn:lanes', 'none|none|through|through')",1
+"('playground:theme', 'playground')",1
+"('lanes', '6')",1
+"('turn:lanes', 'left|through|through|through|right|right')",1
+"('turn:lanes', 'left|through;right|right')",1
+"('name', 'Seah Im Road')",1
+"('name:zh', '声音路')",1
+"('turn:lanes', 'left|right|right')",1
+"('turn:lanes', 'left|left;through')",1
+"('turn:lanes', 'left;through|through|through;right|right')",1
+"('name', 'Bukit Chermin Road')",1
+"('name:zh', '教师中心连路')",1
+"('turn:lanes', 'through|through|right')",1
+"('name', 'Staff Centre Link')",1
+"('name', 'Port Road')",1
+"('name:zh', '波德路')",1
+"('width', '1')",1
+"('name:zh', '杜佛地铁站A号出口')",1
+"('name', 'Dover Station Exit A')",1
+"('railway', 'platform')",1
+"('ramp', 'bicycle')",1
+"('fixme', 'yes')",1
+"('boundary', 'administrative')",1
+"('admin_level', '6')",1
+"('sidewalk:left', 'yes')",1
+"('sidewalk:right', 'separate')",1
+"('name', 'Holland Grove Terrace')",1
+"('name', 'Mount Sinai Avenue')",1
+"('turn:lanes:backward', 'right|right')",1
