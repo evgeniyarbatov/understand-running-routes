@@ -23,7 +23,7 @@ def parse_gpx(filepath):
   
 def get_output_path(output_dir, filename, extension):
   if not os.path.exists(output_dir):
-    os.makedirs(output_dir)
+    os.makedirs(output_dir, exist_ok=True)
   
   basename = os.path.splitext(os.path.basename(filename))[0]
   output_filename = basename + '.' + extension

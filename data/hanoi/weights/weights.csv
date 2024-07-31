@@ -1,0 +1,5 @@
+Tag,Count,Key,Value,Weight
+"('highway', 'footway')",6913,highway,footway,100.0
+"('footway', 'sidewalk')",4337,footway,sidewalk,100.0
+"('crossing', 'traffic_signals')",628,crossing,traffic_signals,100.0
+"('crossing', 'marked')",621,crossing,marked,1.0

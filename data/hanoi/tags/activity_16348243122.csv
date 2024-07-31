@@ -1,0 +1,68 @@
+Tag,Count
+"('highway', 'residential')",1194
+"('surface', 'asphalt')",877
+"('highway', 'footway')",710
+"('footway', 'sidewalk')",484
+"('lanes', '2')",368
+"('highway', 'service')",262
+"('footway', 'crossing')",186
+"('motorcar', 'no')",128
+"('motorcycle', 'yes')",128
+"('service', 'alley')",123
+"('crossing', 'uncontrolled')",120
+"('crossing:markings', 'zebra')",120
+"('oneway', 'yes')",115
+"('name', 'Đường Số 5 Times City')",109
+"('name', 'Đường Số 1 Times City')",109
+"('lanes', '4')",99
+"('name', 'Ngõ 13 Đường Lĩnh Nam')",97
+"('name', 'Đường Số 4')",91
+"('name', 'Đường Số 7 Times City')",72
+"('name', 'Đường Số 2 Times City')",63
+"('name', 'Ngõ 622 Phố Minh Khai')",53
+"('highway', 'tertiary')",50
+"('name', 'Đường Số 3 Times City')",49
+"('crossing', 'unmarked')",45
+"('highway', 'pedestrian')",43
+"('boundary', 'administrative')",43
+"('operator', 'Vingroup')",35
+"('addr:street', 'Phố Minh Khai')",35
+"('residential', 'apartments')",35
+"('wikidata', 'Q10779495')",35
+"('wikimedia_commons', 'Category:Times City')",35
+"('name', 'Vinhomes Times City')",35
+"('landuse', 'residential')",35
+"('wikipedia', 'vi:Vinhomes Times City')",35
+"('addr:subdistrict', 'Vĩnh Tuy')",35
+"('addr:housenumber', '458')",35
+"('addr:province', 'Hà Nội')",35
+"('addr:district', 'Hai Bà Trưng')",35
+"('addr:city', 'Hà Nội')",35
+"('addr:postcode', '100000')",35
+"('name', 'Phố Minh Khai')",31
+"('highway', 'primary')",31
+"('highway', 'steps')",22
+"('name', 'Ngõ 622 Minh Khai')",22
+"('surface', 'unpaved')",21
+"('surface', 'paving_stones')",18
+"('junction', 'roundabout')",16
+"('building', 'yes')",15
+"('crossing', 'marked')",13
+"('motorcycle', 'no')",13
+"('motorcar', 'yes')",13
+"('motor_vehicle', 'yes')",13
+"('moped', 'no')",13
+"('horse', 'no')",13
+"('highway', 'trunk_link')",13
+"('foot', 'no')",13
+"('bicycle', 'no')",13
+"('layer', '1')",13
+"('bridge', 'yes')",13
+"('crossing:markings', 'yes')",13
+"('access', 'private')",9
+"('name', 'Đường Số 1')",9
+"('name', 'Ngách 13/21 Lĩnh Nam')",8
+"('highway', 'track')",8
+"('turn:lanes:forward', 'through|through;right')",2
+"('turn:lanes:backward', 'left;through|through;right')",2
+"('name', 'Ngách 90 Ngõ 13 Đường Lĩnh Nam')",1

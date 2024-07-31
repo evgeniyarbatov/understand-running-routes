@@ -12,6 +12,14 @@ make
 
 ## Run OSRM and Overpass API
 
+Hanoi:
+
 ```
 docker compose up
+```
+
+SG:
+
+```
+docker compose -f docker-compose-sg.yaml up --force-recreate
 ```

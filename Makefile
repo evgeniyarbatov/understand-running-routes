@@ -1,20 +1,24 @@
-SOURCE = osm/hanoi.osm.pbf
-TEMP_OUTPUT = /tmp/hanoi.osm
-FINAL_OUTPUT = osm/hanoi.osm.bz2
-CUSTOM_OSM = custom_osm/hanoi.osm.pbf
+HANOI_SOURCE = osm/hanoi.osm.pbf
+HANOI_COMPRESSED = osm/hanoi.osm.bz2
+HANOI_CUSTOM_OSM = custom_osm/hanoi.osm.pbf
 
-all: $(FINAL_OUTPUT) copy
+SG_SOURCE = osm/singapore.osm.pbf
+SG_COMPRESSED = osm/singapore.osm.bz2
+SG_CUSTOM_OSM = custom_osm/singapore.osm.pbf
 
-$(FINAL_OUTPUT): $(TEMP_OUTPUT)
-	bzip2 -c $(TEMP_OUTPUT) > $(FINAL_OUTPUT)
+TEMP_OUTPUT = /tmp/map.osm
 
-$(TEMP_OUTPUT): $(SOURCE)
-	osmconvert $(SOURCE) -o=$(TEMP_OUTPUT)
+all: compress copy
+
+compress:
+	osmconvert $(HANOI_SOURCE) -o=$(TEMP_OUTPUT)
+	bzip2 -c $(TEMP_OUTPUT) > $(HANOI_COMPRESSED)
+
+	osmconvert $(SG_SOURCE) -o=$(TEMP_OUTPUT)
+	bzip2 -c $(TEMP_OUTPUT) > $(SG_COMPRESSED)
 
 copy:
-	cp ${SOURCE} ${CUSTOM_OSM}
+	cp ${HANOI_SOURCE} ${HANOI_CUSTOM_OSM}
+	cp ${SG_SOURCE} ${SG_CUSTOM_OSM}
 
-clean:
-	rm -f $(TEMP_OUTPUT) $(FINAL_OUTPUT)
-
-.PHONY: all clean copy
+.PHONY: all compress copy
