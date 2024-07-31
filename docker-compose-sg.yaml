@@ -35,7 +35,7 @@ services:
     restart: unless-stopped
     command: >
       bash -c "
-      osrm-extract -p /profiles/custom.lua /data/singapore.osm.pbf && 
+      osrm-extract -p /profiles/singapore/custom.lua /data/singapore.osm.pbf && 
       osrm-partition /data/singapore.osrm && 
       osrm-customize /data/singapore.osrm && 
       osrm-routed \
