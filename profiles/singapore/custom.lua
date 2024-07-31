@@ -269,42 +269,113 @@ function custom_tag_weights(profile, way, result, data)
   local foot = way:get_value_by_key('foot')
   local footway = way:get_value_by_key('footway')
   local highway = way:get_value_by_key('highway')
+  local incline = way:get_value_by_key('incline')
+  local lit = way:get_value_by_key('lit')
+  local sidewalk = way:get_value_by_key('sidewalk')
+  local surface = way:get_value_by_key('surface')
+  local trail_visibility = way:get_value_by_key('trail_visibility')
   if foot == 'yes' then
-     result.forward_speed = walking_speed * 11
-     result.backward_speed = walking_speed * 11
+     result.forward_speed = walking_speed * 74
+     result.backward_speed = walking_speed * 74
   elseif foot == 'designated' then
+     result.forward_speed = walking_speed * 19
+     result.backward_speed = walking_speed * 19
+  elseif foot == 'no' then
+     result.forward_speed = walking_speed * 4
+     result.backward_speed = walking_speed * 4
+  elseif footway == 'crossing' then
+     result.forward_speed = walking_speed * 66
+     result.backward_speed = walking_speed * 66
+  elseif footway == 'sidewalk' then
+     result.forward_speed = walking_speed * 31
+     result.backward_speed = walking_speed * 31
+  elseif footway == 'yes' then
      result.forward_speed = walking_speed * 2
      result.backward_speed = walking_speed * 2
-  elseif footway == 'crossing' then
-     result.forward_speed = walking_speed * 3
-     result.backward_speed = walking_speed * 3
   elseif highway == 'footway' then
-     result.forward_speed = walking_speed * 30
-     result.backward_speed = walking_speed * 30
+     result.forward_speed = walking_speed * 38
+     result.backward_speed = walking_speed * 38
   elseif highway == 'residential' then
-     result.forward_speed = walking_speed * 11
-     result.backward_speed = walking_speed * 11
+     result.forward_speed = walking_speed * 13
+     result.backward_speed = walking_speed * 13
   elseif highway == 'service' then
+     result.forward_speed = walking_speed * 9
+     result.backward_speed = walking_speed * 9
+  elseif highway == 'primary' then
      result.forward_speed = walking_speed * 7
      result.backward_speed = walking_speed * 7
-  elseif highway == 'primary' then
-     result.forward_speed = walking_speed * 5
-     result.backward_speed = walking_speed * 5
   elseif highway == 'cycleway' then
-     result.forward_speed = walking_speed * 5
-     result.backward_speed = walking_speed * 5
+     result.forward_speed = walking_speed * 6
+     result.backward_speed = walking_speed * 6
   elseif highway == 'steps' then
-     result.forward_speed = walking_speed * 5
-     result.backward_speed = walking_speed * 5
+     result.forward_speed = walking_speed * 6
+     result.backward_speed = walking_speed * 6
   elseif highway == 'path' then
-     result.forward_speed = walking_speed * 3
-     result.backward_speed = walking_speed * 3
+     result.forward_speed = walking_speed * 4
+     result.backward_speed = walking_speed * 4
   elseif highway == 'secondary' then
-     result.forward_speed = walking_speed * 3
-     result.backward_speed = walking_speed * 3
+     result.forward_speed = walking_speed * 4
+     result.backward_speed = walking_speed * 4
   elseif highway == 'tertiary' then
      result.forward_speed = walking_speed * 2
      result.backward_speed = walking_speed * 2
+  elseif incline == 'down' then
+     result.forward_speed = walking_speed * 55
+     result.backward_speed = walking_speed * 55
+  elseif incline == 'up' then
+     result.forward_speed = walking_speed * 43
+     result.backward_speed = walking_speed * 43
+  elseif lit == 'no' then
+     result.forward_speed = walking_speed * 61
+     result.backward_speed = walking_speed * 61
+  elseif lit == 'yes' then
+     result.forward_speed = walking_speed * 38
+     result.backward_speed = walking_speed * 38
+  elseif sidewalk == 'left' then
+     result.forward_speed = walking_speed * 44
+     result.backward_speed = walking_speed * 44
+  elseif sidewalk == 'both' then
+     result.forward_speed = walking_speed * 22
+     result.backward_speed = walking_speed * 22
+  elseif sidewalk == 'no' then
+     result.forward_speed = walking_speed * 17
+     result.backward_speed = walking_speed * 17
+  elseif sidewalk == 'right' then
+     result.forward_speed = walking_speed * 10
+     result.backward_speed = walking_speed * 10
+  elseif sidewalk == 'separate' then
+     result.forward_speed = walking_speed * 3
+     result.backward_speed = walking_speed * 3
+  elseif sidewalk == 'none' then
+     result.forward_speed = walking_speed * 2
+     result.backward_speed = walking_speed * 2
+  elseif surface == 'asphalt' then
+     result.forward_speed = walking_speed * 60
+     result.backward_speed = walking_speed * 60
+  elseif surface == 'dirt' then
+     result.forward_speed = walking_speed * 13
+     result.backward_speed = walking_speed * 13
+  elseif surface == 'concrete' then
+     result.forward_speed = walking_speed * 10
+     result.backward_speed = walking_speed * 10
+  elseif surface == 'gravel' then
+     result.forward_speed = walking_speed * 3
+     result.backward_speed = walking_speed * 3
+  elseif surface == 'paved' then
+     result.forward_speed = walking_speed * 2
+     result.backward_speed = walking_speed * 2
+  elseif surface == 'paving_stones' then
+     result.forward_speed = walking_speed * 2
+     result.backward_speed = walking_speed * 2
+  elseif surface == 'ground' then
+     result.forward_speed = walking_speed * 2
+     result.backward_speed = walking_speed * 2
+  elseif trail_visibility == 'excellent' then
+     result.forward_speed = walking_speed * 65
+     result.backward_speed = walking_speed * 65
+  elseif trail_visibility == 'good' then
+     result.forward_speed = walking_speed * 33
+     result.backward_speed = walking_speed * 33
   else
     result.forward_speed = walking_speed
     result.backward_speed = walking_speed
