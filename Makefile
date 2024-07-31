@@ -1,21 +1,20 @@
-# Makefile for converting OSM PBF to OSM XML and compressing it
-
-# Variables
-OSMCONVERT = osmconvert
-BZ2 = bzip2
 SOURCE = osm/hanoi.osm.pbf
 TEMP_OUTPUT = /tmp/hanoi.osm
 FINAL_OUTPUT = osm/hanoi.osm.bz2
+CUSTOM_OSM = custom_osm/hanoi.osm.pbf
 
-all: $(FINAL_OUTPUT)
+all: $(FINAL_OUTPUT) copy
 
 $(FINAL_OUTPUT): $(TEMP_OUTPUT)
-	$(BZ2) -c $(TEMP_OUTPUT) > $(FINAL_OUTPUT)
+	bzip2 -c $(TEMP_OUTPUT) > $(FINAL_OUTPUT)
 
 $(TEMP_OUTPUT): $(SOURCE)
-	$(OSMCONVERT) $(SOURCE) -o=$(TEMP_OUTPUT)
+	osmconvert $(SOURCE) -o=$(TEMP_OUTPUT)
+
+copy:
+	cp ${SOURCE} ${CUSTOM_OSM}
 
 clean:
 	rm -f $(TEMP_OUTPUT) $(FINAL_OUTPUT)
 
-.PHONY: all clean
+.PHONY: all clean copy

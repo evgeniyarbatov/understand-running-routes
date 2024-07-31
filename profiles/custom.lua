@@ -9,7 +9,7 @@ Handlers = require('lib/way_handlers')
 find_access_tag = require('lib/access').find_access_tag
 
 function setup()
-  local walking_speed = 5
+walking_speed = 5
   return {
     properties = {
       weight_name                   = 'duration',
@@ -272,80 +272,80 @@ function custom_tag_weights(profile, way, result, data)
   local oneway = way:get_value_by_key('oneway')
   local surface = way:get_value_by_key('surface')
   if crossing == 'uncontrolled' then
-     result.forward_rate = result.forward_speed * 10.0
-     result.backward_rate = result.backward_speed * 10.0
+     result.forward_speed = walking_speed * 100.0
+     result.backward_speed = walking_speed * 100.0
   elseif crossing == 'traffic_signals' then
-     result.forward_rate = result.forward_speed * 9.347386172006743
-     result.backward_rate = result.backward_speed * 9.347386172006743
+     result.forward_speed = walking_speed * 92.8212478920742
+     result.backward_speed = walking_speed * 92.8212478920742
   elseif crossing == 'marked' then
-     result.forward_rate = result.forward_speed * 9.24114671163575
-     result.backward_rate = result.backward_speed * 9.24114671163575
+     result.forward_speed = walking_speed * 91.65261382799324
+     result.backward_speed = walking_speed * 91.65261382799324
   elseif crossing == 'unmarked' then
-     result.forward_rate = result.forward_speed * 2.973018549747049
-     result.backward_rate = result.backward_speed * 2.973018549747049
+     result.forward_speed = walking_speed * 22.70320404721754
+     result.backward_speed = walking_speed * 22.70320404721754
   elseif footway == 'sidewalk' then
-     result.forward_rate = result.forward_speed * 10.0
-     result.backward_rate = result.backward_speed * 10.0
+     result.forward_speed = walking_speed * 100.0
+     result.backward_speed = walking_speed * 100.0
   elseif highway == 'service' then
-     result.forward_rate = result.forward_speed * 10.0
-     result.backward_rate = result.backward_speed * 10.0
+     result.forward_speed = walking_speed * 100.0
+     result.backward_speed = walking_speed * 100.0
   elseif highway == 'residential' then
-     result.forward_rate = result.forward_speed * 6.672696844118585
-     result.backward_rate = result.backward_speed * 6.672696844118585
+     result.forward_speed = walking_speed * 63.39966528530443
+     result.backward_speed = walking_speed * 63.39966528530443
   elseif highway == 'footway' then
-     result.forward_rate = result.forward_speed * 5.95258208479439
-     result.backward_rate = result.backward_speed * 5.95258208479439
+     result.forward_speed = walking_speed * 55.47840293273829
+     result.backward_speed = walking_speed * 55.47840293273829
   elseif highway == 'tertiary' then
-     result.forward_rate = result.forward_speed * 1.5859897991711829
-     result.backward_rate = result.backward_speed * 1.5859897991711829
+     result.forward_speed = walking_speed * 7.44588779088301
+     result.backward_speed = walking_speed * 7.44588779088301
   elseif highway == 'primary' then
-     result.forward_rate = result.forward_speed * 1.555148230793752
-     result.backward_rate = result.backward_speed * 1.555148230793752
+     result.forward_speed = walking_speed * 7.106630538731272
+     result.backward_speed = walking_speed * 7.106630538731272
   elseif highway == 'secondary' then
-     result.forward_rate = result.forward_speed * 1.2474497927956647
-     result.backward_rate = result.backward_speed * 1.2474497927956647
+     result.forward_speed = walking_speed * 3.7219477207523113
+     result.backward_speed = walking_speed * 3.7219477207523113
   elseif highway == 'primary_link' then
-     result.forward_rate = result.forward_speed * 1.1348422059292318
-     result.backward_rate = result.backward_speed * 1.1348422059292318
+     result.forward_speed = walking_speed * 2.4832642652215493
+     result.backward_speed = walking_speed * 2.4832642652215493
   elseif highway == 'steps' then
-     result.forward_rate = result.forward_speed * 1.1204972904048454
-     result.backward_rate = result.backward_speed * 1.1204972904048454
+     result.forward_speed = walking_speed * 2.3254701944532994
+     result.backward_speed = walking_speed * 2.3254701944532994
   elseif highway == 'pedestrian' then
-     result.forward_rate = result.forward_speed * 1.0480554670066944
-     result.backward_rate = result.backward_speed * 1.0480554670066944
+     result.forward_speed = walking_speed * 1.5286101370736374
+     result.backward_speed = walking_speed * 1.5286101370736374
   elseif highway == 'path' then
-     result.forward_rate = result.forward_speed * 1.0408830092445012
-     result.backward_rate = result.backward_speed * 1.0408830092445012
+     result.forward_speed = walking_speed * 1.4497131016895124
+     result.backward_speed = walking_speed * 1.4497131016895124
   elseif highway == 'secondary_link' then
-     result.forward_rate = result.forward_speed * 1.033710551482308
-     result.backward_rate = result.backward_speed * 1.033710551482308
+     result.forward_speed = walking_speed * 1.3708160663053874
+     result.backward_speed = walking_speed * 1.3708160663053874
   elseif highway == 'tertiary_link' then
-     result.forward_rate = result.forward_speed * 1.0129104239719475
-     result.backward_rate = result.backward_speed * 1.0129104239719475
+     result.forward_speed = walking_speed * 1.142014663691425
+     result.backward_speed = walking_speed * 1.142014663691425
   elseif highway == 'trunk_link' then
-     result.forward_rate = result.forward_speed * 1.0129104239719475
-     result.backward_rate = result.backward_speed * 1.0129104239719475
+     result.forward_speed = walking_speed * 1.142014663691425
+     result.backward_speed = walking_speed * 1.142014663691425
   elseif oneway == 'yes' then
-     result.forward_rate = result.forward_speed * 10.0
-     result.backward_rate = result.backward_speed * 10.0
+     result.forward_speed = walking_speed * 100.0
+     result.backward_speed = walking_speed * 100.0
   elseif surface == 'asphalt' then
-     result.forward_rate = result.forward_speed * 10.0
-     result.backward_rate = result.backward_speed * 10.0
+     result.forward_speed = walking_speed * 100.0
+     result.backward_speed = walking_speed * 100.0
   elseif surface == 'concrete' then
-     result.forward_rate = result.forward_speed * 1.7417582417582418
-     result.backward_rate = result.backward_speed * 1.7417582417582418
+     result.forward_speed = walking_speed * 9.15934065934066
+     result.backward_speed = walking_speed * 9.15934065934066
   elseif surface == 'paving_stones' then
-     result.forward_rate = result.forward_speed * 1.380151098901099
-     result.backward_rate = result.backward_speed * 1.380151098901099
+     result.forward_speed = walking_speed * 5.181662087912088
+     result.backward_speed = walking_speed * 5.181662087912088
   elseif surface == 'concrete:plates' then
-     result.forward_rate = result.forward_speed * 1.3059752747252746
-     result.backward_rate = result.backward_speed * 1.3059752747252746
+     result.forward_speed = walking_speed * 4.365728021978022
+     result.backward_speed = walking_speed * 4.365728021978022
   elseif surface == 'unpaved' then
-     result.forward_rate = result.forward_speed * 1.0154532967032968
-     result.backward_rate = result.backward_speed * 1.0154532967032968
+     result.forward_speed = walking_speed * 1.1699862637362637
+     result.backward_speed = walking_speed * 1.1699862637362637
   else
-    result.forward_rate = result.forward_speed
-    result.backward_rate = result.backward_speed
+    result.forward_speed = walking_speed
+    result.backward_speed = walking_speed
   end
 end
 

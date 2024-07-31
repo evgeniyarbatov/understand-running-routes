@@ -26,7 +26,7 @@ services:
   custom:
     image: osrm/osrm-backend
     volumes:
-      - ./osm:/data
+      - ./custom_osm:/data
       - ./profiles:/profiles
     networks:
       - default
